@@ -8,9 +8,9 @@ GITHUB_FILE_LINK_PREFIX = "https://github.com/zh-wang/leetcode/blob/master/solut
 if __name__ == "__main__":
   of = open("./README.md", "w")
   try:
-    top = ["# leetcode\n", "# solutions for leetcode problem\n", "\n"]
+    top = ["Solutions for Leetcode problems\n", "================\n", "\n"]
     of.writelines(top)
-    of.write("| First Header  | Second Header |\n")
+    of.write("| Problem | Solutions |\n")
     of.write("| ------------- | ------------- |\n")
     of.write("| ")
 
