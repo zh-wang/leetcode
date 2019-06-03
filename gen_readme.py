@@ -1,10 +1,12 @@
-#!~/.pyenv/shims/python3
+#!/Users/zhenghongwang/.pyenv/shims/python3
 # -*- coding: utf-8 _*_
 
 import glob, os
 
+GITHUB_FILE_LINK_PREFIX = "https://github.com/zh-wang/leetcode/blob/master/solutions/"
+
 if __name__ == "__main__":
-  of = open("./test.readme", "w")
+  of = open("./README.md", "w")
   try:
     top = ["# leetcode\n", "# solutions for leetcode problem\n", "\n"]
     of.writelines(top)
@@ -16,7 +18,9 @@ if __name__ == "__main__":
       prob_desc = os.path.split(prob_dir)[1]
       solutions = []
       for sol in glob.glob(prob_dir + "/*"): # for each solution
-        sol = "[%s](%s)" % (os.path.split(sol)[1], "link")
+        fn = os.path.split(sol)[1]
+        sol = "[%s](%s)" % (os.path.split(sol)[1], \
+            "%s%s/%s" % (GITHUB_FILE_LINK_PREFIX, prob_desc, fn))
         solutions.append(sol)
       print(prob_desc, solutions)
       of.write(prob_desc)
