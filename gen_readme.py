@@ -12,17 +12,16 @@ if __name__ == "__main__":
     of.writelines(top)
     of.write("| Problem | Solutions |\n")
     of.write("| ------------- | ------------- |\n")
-    of.write("| ")
 
-    for prob_dir in glob.glob("./solutions/*"): # for each prob
+    for prob_dir in sorted(glob.glob("./solutions/*"), key=lambda x:os.path.basename(x)): # for each prob
       prob_desc = os.path.split(prob_dir)[1]
+      print(os.path.basename(prob_dir))
       solutions = []
+      of.write("| ")
       for sol in glob.glob(prob_dir + "/*"): # for each solution
         fn = os.path.split(sol)[1]
-        sol = "[%s](%s)" % (os.path.split(sol)[1], \
-            "%s%s/%s" % (GITHUB_FILE_LINK_PREFIX, prob_desc, fn))
+        sol = "[%s](%s)" % (os.path.split(sol)[1], "%s%s/%s" % (GITHUB_FILE_LINK_PREFIX, prob_desc, fn))
         solutions.append(sol)
-      print(prob_desc, solutions)
       of.write(prob_desc)
       of.write(" | ")
       of.write(", ".join(solutions))
