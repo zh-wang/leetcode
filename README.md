@@ -11,3 +11,4 @@ Solutions for Leetcode problems
 | 0007_Reverse_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0007_Reverse_Integer/trival.java) |
 | 0008_String_to_Integer_atoi | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0008_String_to_Integer_atoi/trival.java) |
 | 0009_Palindrome_Number | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0009_Palindrome_Number/trival.java) |
+| 0010_Regular_Expression_Matching | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0010_Regular_Expression_Matching/dp.java) |
