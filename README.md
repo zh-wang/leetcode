@@ -10,3 +10,4 @@ Solutions for Leetcode problems
 | 0006_ZigZag_Conversion | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0006_ZigZag_Conversion/trival.java) |
 | 0007_Reverse_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0007_Reverse_Integer/trival.java) |
 | 0008_String_to_Integer_atoi | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0008_String_to_Integer_atoi/trival.java) |
+| 0009_Palindrome_Number | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0009_Palindrome_Number/trival.java) |
