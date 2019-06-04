@@ -8,3 +8,4 @@ Solutions for Leetcode problems
 | 0003_Longest_Substring_Without_Repeating_Characters | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0003_Longest_Substring_Without_Repeating_Characters/trival.java) |
 | 0005_Longest_Palindromic_Substring | [trick.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0005_Longest_Palindromic_Substring/trick.java) |
 | 0006_ZigZag_Conversion | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0006_ZigZag_Conversion/trival.java) |
+| 0007_Reverse_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0007_Reverse_Integer/trival.java) |
