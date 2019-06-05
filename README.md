@@ -17,3 +17,4 @@ Solutions for Leetcode problems
 | 0013_Roman_to_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0013_Roman_to_Integer/trival.java) |
 | 0014_Longest_Common_Prefix | [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/divide_conquer.py), [trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trie.py), [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trival.java) |
 | 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
+| 0031_Next_Permutation | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0031_Next_Permutation/trival.py) |
