@@ -12,3 +12,8 @@ Solutions for Leetcode problems
 | 0008_String_to_Integer_atoi | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0008_String_to_Integer_atoi/trival.java) |
 | 0009_Palindrome_Number | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0009_Palindrome_Number/trival.java) |
 | 0010_Regular_Expression_Matching | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0010_Regular_Expression_Matching/dp.java) |
+| 0011_Container_With_Most_Water | [trick_greedy.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0011_Container_With_Most_Water/trick_greedy.java) |
+| 0012_Integer_to_Roman | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0012_Integer_to_Roman/trival.java) |
+| 0013_Roman_to_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0013_Roman_to_Integer/trival.java) |
+| 0014_Longest_Common_Prefix | [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/divide_conquer.py), [trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trie.py), [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trival.java) |
+| 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
