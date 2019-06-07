@@ -19,4 +19,5 @@ Solutions for Leetcode problems
 | 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
 | 0031_Next_Permutation | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0031_Next_Permutation/trival.py) |
 | 0032_Longest_Valid_Parentheses |  |
-| 0033_Search_in_Rotated_Sorted_Array | [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/divide_conquer.py) |
+| 0033_Search_in_Rotated_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/binary_search.py) |
+| 0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/binary_search.py) |
