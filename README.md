@@ -21,3 +21,4 @@ Solutions for Leetcode problems
 | 0032_Longest_Valid_Parentheses |  |
 | 0033_Search_in_Rotated_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/binary_search.py) |
 | 0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/binary_search.py) |
+| 0035_Search_Insert_Position | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0035_Search_Insert_Position/binary_search.py) |
