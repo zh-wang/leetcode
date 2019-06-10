@@ -16,6 +16,7 @@ Solutions for Leetcode problems
 | 0012_Integer_to_Roman | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0012_Integer_to_Roman/trival.java) |
 | 0013_Roman_to_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0013_Roman_to_Integer/trival.java) |
 | 0014_Longest_Common_Prefix | [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/divide_conquer.py), [trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trie.py), [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0014_Longest_Common_Prefix/trival.java) |
+| 0015_3Sum | [shrink_both_side.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0015_3Sum/shrink_both_side.py) |
 | 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
 | 0031_Next_Permutation | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0031_Next_Permutation/trival.py) |
 | 0032_Longest_Valid_Parentheses | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/dp.java), [stack_two_pass.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/stack_two_pass.py) |
@@ -23,3 +24,4 @@ Solutions for Leetcode problems
 | 0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/binary_search.py) |
 | 0035_Search_Insert_Position | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0035_Search_Insert_Position/binary_search.py) |
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
+| 0037_Sudoku_Solver | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0037_Sudoku_Solver/dfs.py) |
