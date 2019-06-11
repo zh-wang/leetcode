@@ -10,7 +10,6 @@ class Solution:
         board[:] = self.solvedBoard
 
     def solver(self, board, l, depth):
-        # print(depth)
         if depth == len(l):
             self.solvedBoard = copy.deepcopy(board)
             return
@@ -20,17 +19,17 @@ class Solution:
             if (1 << i) & bitmask == 0:
                 board[row][col] = str(i + 1)
                 self.solver(board, l, depth + 1)
-        board[row][col] = '.'
+                board[row][col] = '.'
 
     def bitmask(self, board, row, col) -> List:
         bitmask = 0
         for i in range(9):
-            if i != col and board[row][i] != '.':
+            if board[row][i] != '.':
                 bitmask = bitmask | (1 << (int(board[row][i]) - 1))
-            if i != row and board[i][col] != '.':
+            if board[i][col] != '.':
                 bitmask = bitmask | (1 << (int(board[i][col]) - 1))
         for i in range(row//3*3, row//3*3 + 3):
             for j in range(col//3*3, col//3*3 + 3):
-                if (i != row or j != col) and board[i][j] != '.':
+                if board[i][j] != '.':
                     bitmask = bitmask | (1 << (int(board[i][j]) - 1))
         return bitmask
