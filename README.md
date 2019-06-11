@@ -10,7 +10,7 @@ Solutions for Leetcode problems
 | 0006_ZigZag_Conversion | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0006_ZigZag_Conversion/trival.java) |
 | 0007_Reverse_Integer | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0007_Reverse_Integer/trival.java) |
 | 0008_String_to_Integer_atoi | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0008_String_to_Integer_atoi/trival.java) |
-| 0009_Palindrome_Number | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0009_Palindrome_Number/trival.java) |
+| 0009_Palindrome_Number | [overflow_check.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0009_Palindrome_Number/overflow_check.java) |
 | 0010_Regular_Expression_Matching | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0010_Regular_Expression_Matching/dp.java) |
 | 0011_Container_With_Most_Water | [trick_greedy.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0011_Container_With_Most_Water/trick_greedy.java) |
 | 0012_Integer_to_Roman | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0012_Integer_to_Roman/trival.java) |
@@ -25,3 +25,4 @@ Solutions for Leetcode problems
 | 0035_Search_Insert_Position | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0035_Search_Insert_Position/binary_search.py) |
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
 | 0037_Sudoku_Solver | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0037_Sudoku_Solver/dfs.py) |
+| 0038_Count_and_Say | [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
