@@ -29,3 +29,4 @@ Solutions for Leetcode problems
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
 | 0037_Sudoku_Solver | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0037_Sudoku_Solver/dfs.py) |
 | 0038_Count_and_Say | [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
+| 0039_Combination_Sum | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0039_Combination_Sum/dfs.py) |
