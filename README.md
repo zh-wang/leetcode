@@ -31,3 +31,4 @@ Solutions for Leetcode problems
 | 0038_Count_and_Say | [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
 | 0039_Combination_Sum | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0039_Combination_Sum/dfs.py) |
 | 0040_Combination_Sum_II | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0040_Combination_Sum_II/dfs.py) |
+| 0041_First_Missing_Positive | [trick_in_slot_check.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0041_First_Missing_Positive/trick_in_slot_check.py) |
