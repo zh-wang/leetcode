@@ -36,3 +36,4 @@ Solutions for Leetcode problems
 | 0040_Combination_Sum_II | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0040_Combination_Sum_II/dfs.py) |
 | 0041_First_Missing_Positive | [trick_in_slot_check.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0041_First_Missing_Positive/trick_in_slot_check.py) |
 | 0042_Trapping_Rain_Water | [brute.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/brute.py), [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/dp.py), [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/stack.py), [trick_two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/trick_two_pointers.py) |
+| 0043_Multiply_Strings | [trival_reversed_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0043_Multiply_Strings/trival_reversed_list.py) |
