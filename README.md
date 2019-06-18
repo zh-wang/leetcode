@@ -38,3 +38,4 @@ Solutions for Leetcode problems
 | 0042_Trapping_Rain_Water | [brute.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/brute.py), [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/dp.py), [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/stack.py), [trick_two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/trick_two_pointers.py) |
 | 0043_Multiply_Strings | [trival_reversed_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0043_Multiply_Strings/trival_reversed_list.py) |
 | 0044_Wildcard_Matching | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0044_Wildcard_Matching/dp.py) |
+| 0045_Jump_Game_II | [greedy.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0045_Jump_Game_II/greedy.py) |
