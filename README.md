@@ -41,3 +41,4 @@ Solutions for Leetcode problems
 | 0045_Jump_Game_II | [greedy.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0045_Jump_Game_II/greedy.py) |
 | 0046_Permutations | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/list_concat.py), [dfs_modify_input_array.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/dfs_modify_input_array.py) |
 | 0047_Permutations_II | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat.py) |
+| 0048_Rotate_Image | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0048_Rotate_Image/trival.py) |
