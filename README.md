@@ -42,3 +42,4 @@ Solutions for Leetcode problems
 | 0046_Permutations | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/list_concat.py), [dfs_modify_input_array.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/dfs_modify_input_array.py) |
 | 0047_Permutations_II | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat.py) |
 | 0048_Rotate_Image | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0048_Rotate_Image/trival.py) |
+| 0049_Group_Anagrams | [concise_tuple_sorted.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0049_Group_Anagrams/concise_tuple_sorted.py) |
