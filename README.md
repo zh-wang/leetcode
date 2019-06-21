@@ -45,3 +45,4 @@ Solutions for Leetcode problems
 | 0049_Group_Anagrams | [concise_tuple_sorted.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0049_Group_Anagrams/concise_tuple_sorted.py) |
 | 0050_Pow_x_n | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/recur.py), [iterative.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/iterative.py) |
 | 0051_N_Queens | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0051_N_Queens/backtracking.py) |
+| 0052_N_Queens_II | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0052_N_Queens_II/backtracking.py) |
