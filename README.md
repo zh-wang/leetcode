@@ -43,4 +43,4 @@ Solutions for Leetcode problems
 | 0047_Permutations_II | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat.py) |
 | 0048_Rotate_Image | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0048_Rotate_Image/trival.py) |
 | 0049_Group_Anagrams | [concise_tuple_sorted.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0049_Group_Anagrams/concise_tuple_sorted.py) |
-| 0050_Pow_x_n | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/binary_search.py), [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/recur.py) |
+| 0050_Pow_x_n | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/recur.py), [iterative.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/iterative.py) |
