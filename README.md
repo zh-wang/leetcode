@@ -23,7 +23,7 @@ Solutions for Leetcode problems
 | 0019_Remove_Nth_Node_From_End_of_List | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0019_Remove_Nth_Node_From_End_of_List/trival.java) |
 | 0020_Valid_Parentheses | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0020_Valid_Parentheses/stack.py) |
 | 0021_Merge_Two_Sorted_Lists | [trival_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0021_Merge_Two_Sorted_Lists/trival_recur.py) |
-| 0022_Generate_Parentheses | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0022_Generate_Parentheses/backtracking.py) |
+| 0022_Generate_Parentheses | [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0022_Generate_Parentheses/backtracking.java), [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0022_Generate_Parentheses/backtracking.py) |
 | 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
 | 0031_Next_Permutation | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0031_Next_Permutation/trival.py) |
 | 0032_Longest_Valid_Parentheses | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/dp.java), [stack_two_pass.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/stack_two_pass.py) |
