@@ -50,4 +50,4 @@ Solutions for Leetcode problems
 | 0052_N_Queens_II | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0052_N_Queens_II/backtracking.py) |
 | 0053_Maximum_Subarray | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0053_Maximum_Subarray/dp.py), [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0053_Maximum_Subarray/divide_conquer.py), [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0053_Maximum_Subarray/trival.py) |
 | 0054_Spiral_Matrix | [check_table.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0054_Spiral_Matrix/check_table.py), [iter_by_layer.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0054_Spiral_Matrix/iter_by_layer.java) |
-| 0055_Jump_Game | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/dp.py) |
+| 0055_Jump_Game | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/dp.py), [greedy.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/greedy.java) |
