@@ -55,3 +55,4 @@ Solutions for Leetcode problems
 | 0057_Insert_Interval | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0057_Insert_Interval/trival.py) |
 | 0058_Length_of_Last_Word | [trival_fast.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival_fast.java), [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival.py) |
 | 0059_Spiral_Matrix_II | [iter_by_layer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0059_Spiral_Matrix_II/iter_by_layer.py) |
+| 0060_Permutation_Sequence | [iter_by_group.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0060_Permutation_Sequence/iter_by_group.py) |
