@@ -53,3 +53,4 @@ Solutions for Leetcode problems
 | 0055_Jump_Game | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/dp.py), [greedy.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/greedy.java) |
 | 0056_Merge_Intervals | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0056_Merge_Intervals/trival.py) |
 | 0057_Insert_Interval | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0057_Insert_Interval/trival.py) |
+| 0058_Length_of_Last_Word | [trival_fast.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival_fast.java), [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival.py) |
