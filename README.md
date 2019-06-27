@@ -57,4 +57,4 @@ Solutions for Leetcode problems
 | 0059_Spiral_Matrix_II | [iter_by_layer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0059_Spiral_Matrix_II/iter_by_layer.py) |
 | 0060_Permutation_Sequence | [iter_by_group.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0060_Permutation_Sequence/iter_by_group.py) |
 | 0061_Rotate_List | [double_pointer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0061_Rotate_List/double_pointer.py) |
-| 0062_Unique_Paths | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/dp.py) |
+| 0062_Unique_Paths | [dp_1D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/dp_1D.java), [dp_2D.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/dp_2D.py) |
