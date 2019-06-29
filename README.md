@@ -60,3 +60,4 @@ Solutions for Leetcode problems
 | 0062_Unique_Paths | [math.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/math.cpp), [dp_1D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/dp_1D.java), [dp_2D.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0062_Unique_Paths/dp_2D.py) |
 | 0063_Unique_Paths_II | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0063_Unique_Paths_II/dp_2D.java) |
 | 0064_Minimum_Path_Sum | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0064_Minimum_Path_Sum/dp_2D.java) |
+| 0065_Valid_Number | [regex.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/regex.py) |
