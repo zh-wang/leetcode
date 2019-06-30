@@ -62,3 +62,4 @@ Solutions for Leetcode problems
 | 0064_Minimum_Path_Sum | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0064_Minimum_Path_Sum/dp_2D.java) |
 | 0065_Valid_Number | [regex.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/regex.py) |
 | 0066_Plus_One | [DFA.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/DFA.py), [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/trival.py) |
+| 0067_Add_Binary | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0067_Add_Binary/trival.py) |
