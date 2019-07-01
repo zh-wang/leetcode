@@ -66,3 +66,4 @@ Solutions for Leetcode problems
 | 0068_Text_Justification | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0068_Text_Justification/trival.py) |
 | 0069_Sqrt_x | [newton.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0069_Sqrt_x/newton.py) |
 | 0070_Climbing_Stairs | [backtracking_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/backtracking_memo.java), [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/dp.py), [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/backtracking.java) |
+| 0071_Simplify_Path | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0071_Simplify_Path/stack.py) |
