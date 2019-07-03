@@ -68,3 +68,4 @@ Solutions for Leetcode problems
 | 0070_Climbing_Stairs | [backtracking_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/backtracking_memo.java), [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/dp.py), [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0070_Climbing_Stairs/backtracking.java) |
 | 0071_Simplify_Path | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0071_Simplify_Path/stack.py) |
 | 0072_Edit_Distance | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0072_Edit_Distance/dp.py) |
+| 0073_Set_Matrix_Zeroes | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/trival.java) |
