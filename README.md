@@ -70,4 +70,4 @@ Solutions for Leetcode problems
 | 0072_Edit_Distance | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0072_Edit_Distance/dp.py) |
 | 0073_Set_Matrix_Zeroes | [in_space.swift](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/in_space.swift), [in_space_faster.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/in_space_faster.py), [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/trival.java) |
 | 0074_Search_a_2D_Matrix | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0074_Search_a_2D_Matrix/binary_search.py) |
-| 0075_Sort_Colors | [replace_three_times.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0075_Sort_Colors/replace_three_times.py) |
+| 0075_Sort_Colors | [shift_start_index_1_loop.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0075_Sort_Colors/shift_start_index_1_loop.py), [exchange_3_loops.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0075_Sort_Colors/exchange_3_loops.py) |
