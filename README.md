@@ -69,3 +69,4 @@ Solutions for Leetcode problems
 | 0071_Simplify_Path | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0071_Simplify_Path/stack.py) |
 | 0072_Edit_Distance | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0072_Edit_Distance/dp.py) |
 | 0073_Set_Matrix_Zeroes | [in_space.swift](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/in_space.swift), [in_space_faster.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/in_space_faster.py), [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0073_Set_Matrix_Zeroes/trival.java) |
+| 0074_Search_a_2D_Matrix | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0074_Search_a_2D_Matrix/binary_search.py) |
