@@ -10,7 +10,6 @@ class Solution:
         ret = []
         for i in range(k): # sliding window start from index i
             wordMet = collections.defaultdict(lambda: 0)
-            metCnt = 0
             for j in range(i, len(s), k):
                 first = "" # remove this out from window
                 if j-t*k >= 0:
