@@ -28,7 +28,7 @@ Solutions for Leetcode problems
 | 0030_Substring_with_Concatenation_of_All_Words | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0030_Substring_with_Concatenation_of_All_Words/sliding_window.py) |
 | 0031_Next_Permutation | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0031_Next_Permutation/trival.py) |
 | 0032_Longest_Valid_Parentheses | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/dp.java), [stack_two_pass.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0032_Longest_Valid_Parentheses/stack_two_pass.py) |
-| 0033_Search_in_Rotated_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/binary_search.py) |
+| 0033_Search_in_Rotated_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/binary_search.py), [binary_search_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0033_Search_in_Rotated_Sorted_Array/binary_search_recur.py) |
 | 0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/binary_search.py) |
 | 0035_Search_Insert_Position | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0035_Search_Insert_Position/binary_search.py) |
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
@@ -76,3 +76,4 @@ Solutions for Leetcode problems
 | 0078_Subsets | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0078_Subsets/iter.py), [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0078_Subsets/recur.py), [bit_check.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0078_Subsets/bit_check.py) |
 | 0079_Word_Search | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0079_Word_Search/dfs.py) |
 | 0080_Remove_Duplicates_from_Sorted_Array_II | [trival_in_place_quodratic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0080_Remove_Duplicates_from_Sorted_Array_II/trival_in_place_quodratic.py), [trick_linear.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0080_Remove_Duplicates_from_Sorted_Array_II/trick_linear.py) |
+| 0081_Search_in_Rotated_Sorted_Array_II | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0081_Search_in_Rotated_Sorted_Array_II/binary_search.py) |
