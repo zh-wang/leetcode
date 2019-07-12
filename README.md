@@ -77,5 +77,5 @@ Solutions for Leetcode problems
 | 0079_Word_Search | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0079_Word_Search/dfs.py) |
 | 0080_Remove_Duplicates_from_Sorted_Array_II | [trival_in_place_quodratic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0080_Remove_Duplicates_from_Sorted_Array_II/trival_in_place_quodratic.py), [trick_linear.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0080_Remove_Duplicates_from_Sorted_Array_II/trick_linear.py) |
 | 0081_Search_in_Rotated_Sorted_Array_II | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0081_Search_in_Rotated_Sorted_Array_II/binary_search.py) |
-| 0082_Remove_Duplicates_from_Sorted_List_II |  |
+| 0082_Remove_Duplicates_from_Sorted_List_II | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0082_Remove_Duplicates_from_Sorted_List_II/linked_list.py) |
 | 0083_Remove_Duplicates_from_Sorted_List | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0083_Remove_Duplicates_from_Sorted_List/linked_list.py) |
