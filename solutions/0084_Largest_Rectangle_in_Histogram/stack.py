@@ -1,31 +1,26 @@
-from typing import *
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         if len(heights) == 0:
             return 0
-        best = 0
-        temp = 0
-        stack = []
+        # Insert a dummy element to the head
+        # Or a special case, 1-length stack should be handled
+        heights.insert(0, 0)
+        best, stack = 0, []
         for i in range(0, len(heights)):
-            if len(stack) == 0:
-                stack.append(i)
-            else:
-                if heights[i] < heights[stack[-1]]: # found item which is descending
-                    # pop until ascending order is recovered
-                    while len(stack) and heights[i] < heights[stack[-1]]:
-                        j = stack.pop()
-                        best = max(best, (i - j) * heights[j])
-                        print(best)
-                stack.append(i)
-            print(stack)
-        if stack:
-            for j in range(len(stack)):
-                i = stack[j]
-                if j == 0:
-                    best = max(best, (stack[-1] + 1) * heights[i])
-                else:
-                    best = max(best, (stack[-1] - stack[j-1] + 1) * heights[i])
+            # found item which is descending
+            if stack and heights[i] < heights[stack[-1]]:
+                best = max(best, self.max_rect(heights, stack, heights[i]))
+            stack.append(i)
+        best = max(best, self.max_rect(heights, stack, -1))
         return best
 
-x = Solution().largestRectangleArea([3,2,4,8,2,9,1])
-print(x)
+    def max_rect(self, heights, stack, h = -1):
+        """ Pop until stack's top is smaller or equals to h """
+        if not stack:
+            return 0
+        ri, best = stack[-1], 0
+        while stack and h < heights[stack[-1]]:
+            hi = stack.pop()
+            li = stack[-1] if stack else 0
+            best = max(best, (ri - li) * heights[hi])
+        return best
