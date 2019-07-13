@@ -79,3 +79,4 @@ Solutions for Leetcode problems
 | 0081_Search_in_Rotated_Sorted_Array_II | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0081_Search_in_Rotated_Sorted_Array_II/binary_search.py) |
 | 0082_Remove_Duplicates_from_Sorted_List_II | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0082_Remove_Duplicates_from_Sorted_List_II/linked_list.py) |
 | 0083_Remove_Duplicates_from_Sorted_List | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0083_Remove_Duplicates_from_Sorted_List/linked_list.py) |
+| 0084_Largest_Rectangle_in_Histogram | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/stack.py) |
