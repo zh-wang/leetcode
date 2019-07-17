@@ -1,19 +1,14 @@
 class Solution {
 
     int[][][][] dp;
+    int[] count;
+    int N = 128;
 
     public boolean isScramble(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
-        int[] count = new int[256];
-        for (int i = 0; i < s1.length(); ++i) {
-            count[s1.charAt(i)]++;
-            count[s2.charAt(i)]--;
-        }
-        for (int i = 0; i < 256; ++i) {
-            if (count[i] != 0) return false;
-        }
         int m = s1.length();
         int n = s2.length();
+        count = new int[N];
         dp = new int[m][m][n][n];
         return isScrambleEqual(s1, s2, 0, m-1, 0, n-1);
     }
@@ -33,6 +28,18 @@ class Solution {
             }
         }
 
+        for (int i = 0; i < N; ++i) {
+            count[i] = 0;
+        }
+        for (int i = 0; i <= r1-l1; ++i) {
+            ++count[s1.charAt(l1 + i)];
+            --count[s2.charAt(l2 + i)];
+        }
+        for (int i = 0; i < N; ++i) {
+            dp[l1][r1][l2][r2] = -1;
+            if (count[i] != 0) return false;
+        }
+
         for (int f = 0; f < (r1-l1); ++f) {
             boolean ok1 = isScrambleEqual(s1, s2, l1, l1+f, l2, l2+f) &&
                 isScrambleEqual(s1, s2, l1+f+1, r1, l2+f+1, r2);
@@ -46,4 +53,5 @@ class Solution {
         dp[l1][r1][l2][r2] = -1;
         return false;
     }
+
 }
