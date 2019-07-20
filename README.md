@@ -86,3 +86,4 @@ Solutions for Leetcode problems
 | 0088_Merge_Sorted_Array | [two_points_from_end.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0088_Merge_Sorted_Array/two_points_from_end.java) |
 | 0089_Gray_Code | [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0089_Gray_Code/backtracking.java) |
 | 0090_Subsets_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0090_Subsets_II/iter.py) |
+| 0091_Decode_Ways | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0091_Decode_Ways/dp.py) |
