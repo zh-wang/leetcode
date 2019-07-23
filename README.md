@@ -89,3 +89,4 @@ Solutions for Leetcode problems
 | 0091_Decode_Ways | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0091_Decode_Ways/dp.py) |
 | 0092_Reverse_Linked_List_II | [linked_list_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur.py), [linked_list_recur_v2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur_v2.py) |
 | 0093_Restore_IP_Addresses | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0093_Restore_IP_Addresses/backtracking.py) |
+| 0094_Binary_Tree_Inorder_Traversal | [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0094_Binary_Tree_Inorder_Traversal/iter_with_stack.py) |
