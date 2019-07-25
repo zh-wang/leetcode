@@ -90,4 +90,5 @@ Solutions for Leetcode problems
 | 0092_Reverse_Linked_List_II | [linked_list_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur.py), [linked_list_recur_v2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur_v2.py) |
 | 0093_Restore_IP_Addresses | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0093_Restore_IP_Addresses/backtracking.py) |
 | 0094_Binary_Tree_Inorder_Traversal | [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0094_Binary_Tree_Inorder_Traversal/iter_with_stack.py) |
+| 0095_Unique_Binary_Search_Trees_II | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0095_Unique_Binary_Search_Trees_II/recur_with_memo.py) |
 | 0096_Unique_Binary_Search_Trees | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0096_Unique_Binary_Search_Trees/recur_with_memo.py) |

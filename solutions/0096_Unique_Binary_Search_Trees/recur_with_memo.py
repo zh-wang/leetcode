@@ -1,10 +1,7 @@
 class Solution:
     def numTrees(self, n: int) -> int:
-        ret = 0
-        dp = [0 for _ in range(n-1)]
-        for i in range(n):
-            ret += self.recur(dp, 0, i-1) * self.recur(dp, i+1, n-1)
-        return ret
+        dp = [0 for _ in range(n)]
+        return self.recur(dp, 0, n-1)
 
     def recur(self, dp, i, j):
         if i > j:
