@@ -93,4 +93,4 @@ Solutions for Leetcode problems
 | 0095_Unique_Binary_Search_Trees_II | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0095_Unique_Binary_Search_Trees_II/recur_with_memo.py) |
 | 0096_Unique_Binary_Search_Trees | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0096_Unique_Binary_Search_Trees/recur_with_memo.py) |
 | 0097_Interleaving_String | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0097_Interleaving_String/dp_2d.py) |
-| 0098_Validate_Binary_Search_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur.py) |
+| 0098_Validate_Binary_Search_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur.py), [recur_quick.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur_quick.java) |
