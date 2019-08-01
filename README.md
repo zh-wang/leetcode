@@ -99,3 +99,4 @@ Solutions for Leetcode problems
 | 0101_Symmetric_Tree | [recur.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0101_Symmetric_Tree/recur.java) |
 | 0102_Binary_Tree_Level_Order_Traversal | [iter_bfs_each_level.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0102_Binary_Tree_Level_Order_Traversal/iter_bfs_each_level.py) |
 | 0103_Binary_Tree_Zigzag_Level_Order_Traversal | [iter_bfs_each_level.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0103_Binary_Tree_Zigzag_Level_Order_Traversal/iter_bfs_each_level.py) |
+| 0104_Maximum_Depth_of_Binary_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0104_Maximum_Depth_of_Binary_Tree/recur.py) |
