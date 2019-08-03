@@ -109,3 +109,4 @@ Solutions for Leetcode problems
 | 0111_Minimum_Depth_of_Binary_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0111_Minimum_Depth_of_Binary_Tree/recur.py) <br> [iter_with_priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0111_Minimum_Depth_of_Binary_Tree/iter_with_priority_queue.java) <br> [iter_bfs.swift](https://github.com/zh-wang/leetcode/blob/master/solutions/0111_Minimum_Depth_of_Binary_Tree/iter_bfs.swift) |
 | 0112_Path_Sum | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0112_Path_Sum/recur.py) |
 | 0113_Path_Sum_II | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0113_Path_Sum_II/recur.py) |
+| 0114_Flatten_Binary_Tree_to_Linked_List | [recur_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0114_Flatten_Binary_Tree_to_Linked_List/recur_with_stack.py) |
