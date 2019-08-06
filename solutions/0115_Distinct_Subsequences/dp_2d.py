@@ -10,6 +10,7 @@ class Solution:
             for j in range(1, m+1):
                 if i < j: # s is shorter, so no substring can be formed
                     dp[i][j] = 0
+                    break
                 else:
                     if s[i-1] == t[j-1]:
                         # We can choose s[i-1](*), or not choose s[i-1](**)
@@ -21,4 +22,8 @@ class Solution:
                         # We can only not choose s[i-1]
                         # This means last matching result(i-1 <=> j) will be used
                         dp[i][j] = dp[i-1][j]
+        for k in dp:
+            print(k)
         return dp[n][m]
+
+Solution().numDistinct('rabbbit','rabbit')

@@ -110,6 +110,6 @@ Solutions for Leetcode problems
 | 0112_Path_Sum | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0112_Path_Sum/recur.py) |
 | 0113_Path_Sum_II | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0113_Path_Sum_II/recur.py) |
 | 0114_Flatten_Binary_Tree_to_Linked_List | [recur_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0114_Flatten_Binary_Tree_to_Linked_List/recur_with_stack.py) |
-| 0115_Distinct_Subsequences | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0115_Distinct_Subsequences/dp.py) |
+| 0115_Distinct_Subsequences | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0115_Distinct_Subsequences/dp_2d.py) <br> [dp_1d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0115_Distinct_Subsequences/dp_1d.py) |
 | 0116_Populating_Next_Right_Pointers_in_Each_Node | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0116_Populating_Next_Right_Pointers_in_Each_Node/recur.py) ⭐️ |
 | 0117_Populating_Next_Right_Pointers_in_Each_Node_II | [recur_bfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0117_Populating_Next_Right_Pointers_in_Each_Node_II/recur_bfs.py) ⭐️ |
