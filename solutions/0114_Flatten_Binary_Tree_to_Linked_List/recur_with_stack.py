@@ -15,6 +15,9 @@ class Solution:
         self.recur(root, [])
         return self.ret.right
 
+    # store right child on a stack
+    # recur first on left child
+    # if no left child exists, pop from the stack
     def recur(self, root, stack):
         if not root:
             if stack: # if stack has elements, pop one then recur on it

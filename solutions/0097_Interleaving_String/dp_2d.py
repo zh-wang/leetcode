@@ -22,13 +22,13 @@ class Solution:
         dp = [[False for _ in range(n)] for _ in range(m)]
         dp[0][0] = True
 
-        for i in range(1, m):
+        for i in range(1, m): # s2 is empty, only match s1 and s3
             dp[i][0] = s1[:i-1] == s3[:i-1]
-        for j in range(1, n):
+        for j in range(1, n): # s1 is empty, only match s2 and s3
             dp[0][j] = s2[:j-1] == s3[:j-1]
 
         for i in range(1, m):
             for j in range(1, n):
-                dp[i][j] = dp[i-1][j] and s3[i+j-1] == s1[i-1] \
-                or dp[i][j-1]and s3[i+j-1] == s2[j-1]
+                dp[i][j] = dp[i-1][j] and s3[i+j-1] == s1[i-1] or \
+                        dp[i][j-1] and s3[i+j-1] == s2[j-1]
         return dp[m-1][n-1]<Paste>

@@ -12,6 +12,8 @@ class Solution:
         """
         e1, e2 = None, None
         lastNode = None
+        # we dont need to map tree into list
+        # we can find the reversed pair when iterating inorder function
         for node in self.inorder(root):
             if not lastNode:
                 lastNode = node
@@ -28,7 +30,7 @@ class Solution:
 
     def inorder(self, node):
         if not node:
-            return 
+            return
         for k in self.inorder(node.left):
             yield k
         yield node

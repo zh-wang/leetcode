@@ -13,11 +13,13 @@ class Solution {
 
     public void recoverTree(TreeNode root) {
         nodes = new ArrayList<>();
+        // map the tree into inorder list
         inorder(root);
         TreeNode e1 = null;
         TreeNode e2 = null;
         Integer lastVal = null;
         TreeNode lastNode = null;
+        // find the reversed order in that list
         for (TreeNode node : nodes) {
             if (lastVal == null) {
                 lastVal = node.val;

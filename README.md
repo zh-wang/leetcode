@@ -93,7 +93,7 @@ Solutions for Leetcode problems
 | 0095_Unique_Binary_Search_Trees_II | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0095_Unique_Binary_Search_Trees_II/recur_with_memo.py) |
 | 0096_Unique_Binary_Search_Trees | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0096_Unique_Binary_Search_Trees/recur_with_memo.py) |
 | 0097_Interleaving_String | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0097_Interleaving_String/dp_2d.py) |
-| 0098_Validate_Binary_Search_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur.py) <br> [recur_quick.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur_quick.java) |
+| 0098_Validate_Binary_Search_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur.py) <br> [recur_quick.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0098_Validate_Binary_Search_Tree/recur_quick.java) ⭐️ |
 | 0099_Recover_Binary_Search_Tree | [recur_linear_space.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0099_Recover_Binary_Search_Tree/recur_linear_space.java) <br> [recur_const_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0099_Recover_Binary_Search_Tree/recur_const_space.py) |
 | 0100_Same_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0100_Same_Tree/recur.py) <br> [iter_bfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0100_Same_Tree/iter_bfs.java) <br> [iter_dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0100_Same_Tree/iter_dfs.java) |
 | 0101_Symmetric_Tree | [recur.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0101_Symmetric_Tree/recur.java) |
@@ -113,3 +113,4 @@ Solutions for Leetcode problems
 | 0115_Distinct_Subsequences | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0115_Distinct_Subsequences/dp_2d.py) <br> [dp_1d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0115_Distinct_Subsequences/dp_1d.py) |
 | 0116_Populating_Next_Right_Pointers_in_Each_Node | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0116_Populating_Next_Right_Pointers_in_Each_Node/recur.py) ⭐️ |
 | 0117_Populating_Next_Right_Pointers_in_Each_Node_II | [recur_bfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0117_Populating_Next_Right_Pointers_in_Each_Node_II/recur_bfs.py) ⭐️ |
+| 0118_Pascals_Triangle | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0118_Pascals_Triangle/iter.py) |
