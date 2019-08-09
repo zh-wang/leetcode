@@ -116,4 +116,4 @@ Solutions for Leetcode problems
 | 0118_Pascals_Triangle | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0118_Pascals_Triangle/iter.py) |
 | 0119_Pascals_Triangle_II | [iter_1d_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0119_Pascals_Triangle_II/iter_1d_space.py) <br> [recur_with_memo_2d_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0119_Pascals_Triangle_II/recur_with_memo_2d_space.py) |
 | 0120_Triangle | [dp_1d_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0120_Triangle/dp_1d_space.py) |
-| 0121_Best_Time_to_Buy_and_Sell_Stock | [dp_1d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0121_Best_Time_to_Buy_and_Sell_Stock/dp_1d.py) |
+| 0121_Best_Time_to_Buy_and_Sell_Stock | [iter_1d_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0121_Best_Time_to_Buy_and_Sell_Stock/iter_1d_space.py) <br> [iter_const_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0121_Best_Time_to_Buy_and_Sell_Stock/iter_const_space.py) |
