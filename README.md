@@ -120,3 +120,4 @@ Solutions for Leetcode problems
 | 0122_Best_Time_to_Buy_and_Sell_Stock_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0122_Best_Time_to_Buy_and_Sell_Stock_II/iter.py) |
 | 0123_Best_Time_to_Buy_and_Sell_Stock_III | [dp_kn.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0123_Best_Time_to_Buy_and_Sell_Stock_III/dp_kn.py) ⭐️ <br> [dp_kn2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0123_Best_Time_to_Buy_and_Sell_Stock_III/dp_kn2.py) |
 | 0124_Binary_Tree_Maximum_Path_Sum | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0124_Binary_Tree_Maximum_Path_Sum/dfs.py) |
+| 0125_Valid_Palindrome | [two_pointer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0125_Valid_Palindrome/two_pointer.py) <br> [two_pointer_compact.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0125_Valid_Palindrome/two_pointer_compact.py) |
