@@ -125,3 +125,4 @@ Solutions for Leetcode problems
 | 0127_Word_Ladder | [bfs_faster.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0127_Word_Ladder/bfs_faster.java) ⭐️ <br> [bfs_quad.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0127_Word_Ladder/bfs_quad.java) |
 | 0128_Longest_Consecutive_Sequence |  |
 | 0129_Sum_Root_to_Leaf_Numbers | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0129_Sum_Root_to_Leaf_Numbers/dfs.py) |
+| 0130_Surrounded_Regions | [bfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0130_Surrounded_Regions/bfs_with_memo.py) |
