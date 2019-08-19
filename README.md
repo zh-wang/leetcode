@@ -132,3 +132,4 @@ Solutions for Leetcode problems
 | 0136_Single_Number | [xor.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0136_Single_Number/xor.py) |
 | 0137_Single_Number_II | [mod3_add.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0137_Single_Number_II/mod3_add.py) ⭐️ |
 | 0138_Copy_List_with_Random_Pointer | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0138_Copy_List_with_Random_Pointer/iter.py) |
+| 0139_Word_Break | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0139_Word_Break/dp.py) |
