@@ -131,3 +131,4 @@ Solutions for Leetcode problems
 | 0134_Gas_Station | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0134_Gas_Station/iter.py) |
 | 0136_Single_Number | [xor.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0136_Single_Number/xor.py) |
 | 0137_Single_Number_II | [mod3_add.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0137_Single_Number_II/mod3_add.py) |
+| 0138_Copy_List_with_Random_Pointer | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0138_Copy_List_with_Random_Pointer/iter.py) |
