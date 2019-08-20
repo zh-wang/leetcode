@@ -134,3 +134,4 @@ Solutions for Leetcode problems
 | 0138_Copy_List_with_Random_Pointer | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0138_Copy_List_with_Random_Pointer/iter.py) |
 | 0139_Word_Break | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0139_Word_Break/dp.py) |
 | 0140_Word_Break_II | [dfs_with_dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0140_Word_Break_II/dfs_with_dp.py) ⭐️ |
+| 0141_Linked_List_Cycle | [iter_with_hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0141_Linked_List_Cycle/iter_with_hash.py) |
