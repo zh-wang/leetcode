@@ -136,3 +136,4 @@ Solutions for Leetcode problems
 | 0140_Word_Break_II | [dfs_with_dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0140_Word_Break_II/dfs_with_dp.py) ⭐️ |
 | 0141_Linked_List_Cycle | [iter_with_hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0141_Linked_List_Cycle/iter_with_hash.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0141_Linked_List_Cycle/two_points.java) |
 | 0142_Linked_List_Cycle | [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0142_Linked_List_Cycle/two_points.java) |
+| 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
