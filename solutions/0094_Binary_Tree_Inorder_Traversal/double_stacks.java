@@ -22,6 +22,7 @@ class Solution {
             if (cur == null) { // no left child
                 // pop until we found a valid right child as cur
                 while (rChilds.size() > 0 && cur == null) {
+                    // cur has no child, add its value, then go to parent's right child
                     ret.add(centers.pop());
                     cur = rChilds.pop();
                 }
