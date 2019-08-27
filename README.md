@@ -139,4 +139,5 @@ Solutions for Leetcode problems
 | 0143_Reorder_List | [two_points_with_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0143_Reorder_List/two_points_with_recur.py) |
 | 0144_Binary_Tree_Preorder_Traversal | [iter_with_stack.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0144_Binary_Tree_Preorder_Traversal/iter_with_stack.java) <br> [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0144_Binary_Tree_Preorder_Traversal/iter_with_stack.py) <br> [iter_with_stack2.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0144_Binary_Tree_Preorder_Traversal/iter_with_stack2.java) |
 | 0145_Binary_Tree_Postorder_Traversal | [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0145_Binary_Tree_Postorder_Traversal/iter_with_stack.py) |
+| 0146_LRU_Cache | [double_linked_list_with_hash.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0146_LRU_Cache/double_linked_list_with_hash.java) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
