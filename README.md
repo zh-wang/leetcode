@@ -142,4 +142,5 @@ Solutions for Leetcode problems
 | 0146_LRU_Cache | [double_linked_list_with_hash.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0146_LRU_Cache/double_linked_list_with_hash.java) |
 | 0147_Insertion_Sort_List | [double_loop.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0147_Insertion_Sort_List/double_loop.java) |
 | 0148_Sort_List | [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0148_Sort_List/two_points.java) <br> [two_points_const_space.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0148_Sort_List/two_points_const_space.java) |
+| 0149_Max_Points_on_a_Line | [hash_slope_n2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0149_Max_Points_on_a_Line/hash_slope_n2.py) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
