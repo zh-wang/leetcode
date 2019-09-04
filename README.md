@@ -149,5 +149,7 @@ Solutions for Leetcode problems
 | 0153_Find_Minimum_in_Rotated_Sorted_Array | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0153_Find_Minimum_in_Rotated_Sorted_Array/binary_search.java) |
 | 0154_Find_Minimum_in_Rotated_Sorted_Array_II | [binary_search_with_shrink.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0154_Find_Minimum_in_Rotated_Sorted_Array_II/binary_search_with_shrink.java) |
 | 0155_Min_Stack | [two_stacks.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0155_Min_Stack/two_stacks.java) |
+| 0156_Binary_Tree_Upside_Down(LintCode)[https://www.lintcode.com/problem/binary-tree-upside-down/description]
+ | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0156_Binary_Tree_Upside_Down/dfs.java) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
