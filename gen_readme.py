@@ -21,6 +21,8 @@ if __name__ == "__main__":
                     in_file = open(sol, "r")
                     first_line = in_file.readline()
                     is_favo = '⭐️' in first_line
+                    has_link = 'Link' in first_line
+                    link = in_file.readline()[3:-1]
                 except Exception as e:
                     print(e)
                 finally:
@@ -29,6 +31,9 @@ if __name__ == "__main__":
                 sol = "[%s](%s)%s" % (os.path.split(sol)[1], "%s%s/%s" % (GITHUB_FILE_LINK_PREFIX, prob_desc, fn), ' ⭐️' if is_favo else '')
                 solutions.append(sol)
             of.write(prob_desc)
+            if has_link:
+                of.write(' => ')
+                of.write(link)
             of.write(" | ")
             of.write(" <br> ".join(solutions))
             of.write(" |\n")
