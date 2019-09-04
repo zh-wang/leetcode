@@ -1,3 +1,6 @@
+// ⭐️ --Link--
+// [LintCode](https://www.lintcode.com/problem/read-n-characters-given-read4-ii-call-multiple-times/description)
+
 /* The read4 API is defined in the parent class Reader4.
       int read4(char[] buf); */
 
