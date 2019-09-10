@@ -1,4 +1,5 @@
-class Solution {
+// ⭐️
+// class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
         int l = 0, r = nums.size() - 1;
