@@ -161,5 +161,6 @@ Solutions for Leetcode problems
 | 0165_Compare_Version_Numbers | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0165_Compare_Version_Numbers/iter.py) |
 | 0166_Fraction_to_Recurring_Decimal | [math_hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0166_Fraction_to_Recurring_Decimal/math_hash.py) <br> [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0166_Fraction_to_Recurring_Decimal/math.py) |
 | 0167_Two_Sum_II_Input_array_is_sorted | [two_sides.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0167_Two_Sum_II_Input_array_is_sorted/two_sides.py) |
+| 0168_Excel_Sheet_Column_Title | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0168_Excel_Sheet_Column_Title/iter.py) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
