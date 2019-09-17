@@ -164,5 +164,6 @@ Solutions for Leetcode problems
 | 0168_Excel_Sheet_Column_Title | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0168_Excel_Sheet_Column_Title/iter.py) |
 | 0169_Majority_Element | [Boyer_Moore_Voting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0169_Majority_Element/Boyer_Moore_Voting.py) |
 | 0171_Excel_Sheet_Column_Number |  |
+| 0174_Dungeon_Game | [simulation_with_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0174_Dungeon_Game/simulation_with_dp.java) <br> [binary_search_with_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0174_Dungeon_Game/binary_search_with_dp.java) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
