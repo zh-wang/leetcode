@@ -8,6 +8,7 @@
 class BSTIterator:
 
     def __init__(self, root: TreeNode):
+        # Similar data structure we used in [0094]
         self.stack = [] # stack stores tuple: (TreeNode, Its_Left_Child_Is_Visited)
         # (Node, False) => Node's left child is not visited
         # (Node, True) => Node's right child is not visited
