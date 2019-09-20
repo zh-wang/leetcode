@@ -12,11 +12,11 @@ public:
             while (j < s.length() && s[j] != ' ') ++j;
             // printf("%d, %d\n", i, j);
             reverse(s, i, j - 1);
-            if (p > 0) {
+            if (p > 0) { // the first word do not need a space
                 s[p] = ' ';
                 ++p;
             }
-            p += lShift(s, p, i, j - 1);
+            p += lShift(s, p, i, j - 1); // go to next p
             i = j + 1;
         }
         s.resize(p);
@@ -32,6 +32,8 @@ public:
         }
     }
 
+    // move s[i:j] to index [p:p+j-i]
+    // return size of s[i:j]
     int lShift(string &s, int p, int i, int j) {
         if (p == i) return j - i + 1;
         int k = i;
