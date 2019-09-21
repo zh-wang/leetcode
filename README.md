@@ -165,7 +165,7 @@ Solutions for Leetcode problems
 | 0169_Majority_Element | [Boyer_Moore_Voting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0169_Majority_Element/Boyer_Moore_Voting.py) |
 | 0171_Excel_Sheet_Column_Number |  |
 | 0172_Factorial_Trailing_Zeroes | [math.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0172_Factorial_Trailing_Zeroes/math.java) |
-| 0173_Binary_Search_Tree_Iterator | [bst.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0173_Binary_Search_Tree_Iterator/bst.py) <br> [bst.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0173_Binary_Search_Tree_Iterator/bst.java) |
+| 0173_Binary_Search_Tree_Iterator | [bst_one_stack_simpler.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0173_Binary_Search_Tree_Iterator/bst_one_stack_simpler.java) <br> [bst_one_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0173_Binary_Search_Tree_Iterator/bst_one_stack.py) |
 | 0174_Dungeon_Game | [simulation_with_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0174_Dungeon_Game/simulation_with_dp.java) <br> [binary_search_with_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0174_Dungeon_Game/binary_search_with_dp.java) |
 | 0186_Reverse_Words_in_a_String_II => https://www.lintcode.com/problem/reverse-words-in-a-string-ii/description | [const_space.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0186_Reverse_Words_in_a_String_II/const_space.cpp) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
