@@ -4,7 +4,7 @@ class Solution:
         if len(prices) <= 1:
             return 0
         n = len(prices)
-        # dp[k, i] = max(dp[k, i-1], prices[i] - prices[j] + dp[k-1, j-1]), j=[0..i-1]
+        # dp[k, i] = max(dp[k, i-1], { prices[i] - prices[j] + dp[k-1, j-1], j=[0..i-1] })
         dp = [[0 for _ in range(n)] for _ in range(3)]
         for k in range(1, 3):
             min_k_i = prices[0]
