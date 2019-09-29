@@ -170,6 +170,6 @@ Solutions for Leetcode problems
 | 0186_Reverse_Words_in_a_String_II => https://www.lintcode.com/problem/reverse-words-in-a-string-ii/description | [const_space.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0186_Reverse_Words_in_a_String_II/const_space.cpp) |
 | 0187_Repeated_DNA_Sequences | [sliding_window.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0187_Repeated_DNA_Sequences/sliding_window.java) <br> [sliding_window_with_hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0187_Repeated_DNA_Sequences/sliding_window_with_hash.py) ⭐️ |
 | 0188_Best_Time_to_Buy_and_Sell_Stock_IV | [dp_kn.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0188_Best_Time_to_Buy_and_Sell_Stock_IV/dp_kn.py) ⭐️ |
-| 0189_Rotate_Array | [vector_ops.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/vector_ops.cpp) |
+| 0189_Rotate_Array | [cycle_swap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/cycle_swap.java) <br> [vector_ops.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/vector_ops.cpp) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
