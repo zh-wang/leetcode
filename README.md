@@ -61,7 +61,8 @@ Solutions for Leetcode problems
 | 0063_Unique_Paths_II | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0063_Unique_Paths_II/dp_2D.java) |
 | 0064_Minimum_Path_Sum | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0064_Minimum_Path_Sum/dp_2D.java) |
 | 0065_Valid_Number | [DFA.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/DFA.py) <br> [regex.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/regex.py) |
-| 0066_Plus_One | [DFA.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/DFA.py) <br> [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/trival.py) |
+| 0066_Plus_One | [DFA.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/DFA.py) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/iter.java) <br> [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/trival.py) |
+| 0066_Plus_One.java |  |
 | 0067_Add_Binary | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0067_Add_Binary/trival.py) |
 | 0068_Text_Justification | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0068_Text_Justification/trival.py) |
 | 0069_Sqrt_x | [newton.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0069_Sqrt_x/newton.py) |
