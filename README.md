@@ -172,5 +172,6 @@ Solutions for Leetcode problems
 | 0188_Best_Time_to_Buy_and_Sell_Stock_IV | [dp_kn.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0188_Best_Time_to_Buy_and_Sell_Stock_IV/dp_kn.py) ⭐️ |
 | 0189_Rotate_Array | [cycle_swap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/cycle_swap.java) <br> [triple_reverse.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/triple_reverse.py) <br> [vector_ops.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0189_Rotate_Array/vector_ops.cpp) |
 | 0190_Reverse_Bits | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0190_Reverse_Bits/iter.java) <br> [both_sides.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0190_Reverse_Bits/both_sides.cpp) |
+| 0191_Number_of_1_Bits | [iter.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0191_Number_of_1_Bits/iter.cpp) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
