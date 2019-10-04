@@ -177,4 +177,5 @@ Solutions for Leetcode problems
 | 0192_Word_Frequency | [one_line.sh](https://github.com/zh-wang/leetcode/blob/master/solutions/0192_Word_Frequency/one_line.sh) |
 | 0193_Valid_Phone_Numbers | [one_line.sh](https://github.com/zh-wang/leetcode/blob/master/solutions/0193_Valid_Phone_Numbers/one_line.sh) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
+| 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
