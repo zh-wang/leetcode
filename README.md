@@ -62,7 +62,6 @@ Solutions for Leetcode problems
 | 0064_Minimum_Path_Sum | [dp_2D.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0064_Minimum_Path_Sum/dp_2D.java) |
 | 0065_Valid_Number | [DFA.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/DFA.py) <br> [regex.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0065_Valid_Number/regex.py) |
 | 0066_Plus_One | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/iter.java) <br> [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0066_Plus_One/trival.py) |
-| 0066_Plus_One.java |  |
 | 0067_Add_Binary | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0067_Add_Binary/trival.py) |
 | 0068_Text_Justification | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0068_Text_Justification/trival.py) |
 | 0069_Sqrt_x | [newton.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0069_Sqrt_x/newton.py) |
@@ -180,5 +179,5 @@ Solutions for Leetcode problems
 | 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
 | 0280_Wiggle_Sort => [LintCode](https://www.lintcode.com/problem/wiggle-sort/description) | [only_swap_N.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/only_swap_N.cpp) <br> [sort_and_swap_NLogN.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/sort_and_swap_NLogN.java) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
-| 0324_Wiggle_Sort_II | [sort_and_pick_NLogN_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0324_Wiggle_Sort_II/sort_and_pick_NLogN_pythonic.py) <br> [sort_and_pick_NLogN.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0324_Wiggle_Sort_II/sort_and_pick_NLogN.py) |
+| 0324_Wiggle_Sort_II | [sort_and_pick_NLogN_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0324_Wiggle_Sort_II/sort_and_pick_NLogN_pythonic.py) ⭐️ <br> [sort_and_pick_NLogN.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0324_Wiggle_Sort_II/sort_and_pick_NLogN.py) |
 | 0360_Sort_Transformed_Array | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
