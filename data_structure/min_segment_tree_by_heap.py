@@ -9,7 +9,7 @@ class MinSegTree:
         self.n = len(nums)
         self.max_size = 2**self.height - 1
         # `nodes` stores (min value, index of the min value in `nums`)
-        self.nodes = [(MinSegTree.NO_VALUE, -1)] * self.max_size
+        self.nodes = [(MinSegTree.NO_VALUE, -1) for _ in range(self.max_size)]
         self.build(nums, 0, len(nums) - 1, 0)
 
     def build(self, nums, l, r, i):

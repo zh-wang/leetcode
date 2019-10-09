@@ -2,7 +2,7 @@ def radix_sort(nums):
     m = max(nums)
     n = len(nums)
     step = 1
-    while step < m:
+    while step <= m:
         keys = [(a//step)%10 for a in nums]
         counting_sort(keys, nums)
         print(nums)
@@ -22,4 +22,5 @@ def counting_sort(keys, nums):
     for i in range(len(nums)):
         nums[i] = B[i]
 
-radix_sort([109, 209, 301, 333, 102, 103, 55, 3])
+# radix_sort([109, 300, 100, 200, 209, 301, 333, 102, 103, 55, 3])
+radix_sort([100, 99])
