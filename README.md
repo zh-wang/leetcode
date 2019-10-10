@@ -52,7 +52,7 @@ Solutions for Leetcode problems
 | 0054_Spiral_Matrix | [check_table.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0054_Spiral_Matrix/check_table.py) <br> [iter_by_layer.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0054_Spiral_Matrix/iter_by_layer.java) |
 | 0055_Jump_Game | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/dp.py) <br> [greedy.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0055_Jump_Game/greedy.java) |
 | 0056_Merge_Intervals | [sort_and_iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0056_Merge_Intervals/sort_and_iter.py) |
-| 0057_Insert_Interval | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0057_Insert_Interval/trival.py) |
+| 0057_Insert_Interval | [sort_and_iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0057_Insert_Interval/sort_and_iter.py) |
 | 0058_Length_of_Last_Word | [trival_fast.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival_fast.java) <br> [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0058_Length_of_Last_Word/trival.py) |
 | 0059_Spiral_Matrix_II | [iter_by_layer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0059_Spiral_Matrix_II/iter_by_layer.py) |
 | 0060_Permutation_Sequence | [iter_by_group.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0060_Permutation_Sequence/iter_by_group.py) |
