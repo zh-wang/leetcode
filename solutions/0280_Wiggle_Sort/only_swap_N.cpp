@@ -1,3 +1,5 @@
+// ⭐️
+
 class Solution {
 public:
     /*
@@ -6,6 +8,11 @@ public:
      */
     void wiggleSort(vector<int> &nums) {
         // write your code here
+        // x x x x x x x
+        // ^ ^ ^
+        // l i r
+        // If we found an invalid pair l,i,r (Note that r maybe out of range)
+        // we should decide swap left(l, i) or swap right(i, r)
         for (int i = 1; i < nums.size(); i += 2) {
             bool l = nums[i] >= nums[i-1];
             bool r = (i < nums.size() - 1) ? (nums[i] >= nums[i+1]) : true;
