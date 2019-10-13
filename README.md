@@ -176,7 +176,7 @@ Solutions for Leetcode problems
 | 0192_Word_Frequency | [one_line.sh](https://github.com/zh-wang/leetcode/blob/master/solutions/0192_Word_Frequency/one_line.sh) |
 | 0193_Valid_Phone_Numbers | [one_line.sh](https://github.com/zh-wang/leetcode/blob/master/solutions/0193_Valid_Phone_Numbers/one_line.sh) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
-| 0240_Search_a_2D_Matrix_II | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
+| 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms => https://www.lintcode.com/problem/meeting-rooms/description | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
 | 0253_Meeting_Rooms_II => https://www.lintcode.com/problem/meeting-rooms-ii/description | [sort_and_min_q.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0253_Meeting_Rooms_II/sort_and_min_q.java) <br> [sort_and_iter_quadric.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0253_Meeting_Rooms_II/sort_and_iter_quadric.java) |
 | 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
