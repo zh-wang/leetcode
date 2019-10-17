@@ -1,5 +1,6 @@
 // --Link--
 // https://www.lintcode.com/problem/missing-ranges/description
+
 public class Solution {
     /*
      * @param nums: a sorted integer array
