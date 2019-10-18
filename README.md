@@ -123,7 +123,7 @@ Solutions for Leetcode problems
 | 0125_Valid_Palindrome | [two_pointer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0125_Valid_Palindrome/two_pointer.py) <br> [two_pointer_compact.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0125_Valid_Palindrome/two_pointer_compact.py) <br> [pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0125_Valid_Palindrome/pythonic.py) |
 | 0126_Word_Ladder_II | [bfs_by_layer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0126_Word_Ladder_II/bfs_by_layer.py) ⭐️ |
 | 0127_Word_Ladder | [bfs_faster.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0127_Word_Ladder/bfs_faster.java) ⭐️ <br> [bfs_quad.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0127_Word_Ladder/bfs_quad.java) |
-| 0128_Longest_Consecutive_Sequence |  |
+| 0128_Longest_Consecutive_Sequence | [disjoint_set.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0128_Longest_Consecutive_Sequence/disjoint_set.py) |
 | 0129_Sum_Root_to_Leaf_Numbers | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0129_Sum_Root_to_Leaf_Numbers/dfs.py) |
 | 0130_Surrounded_Regions | [bfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0130_Surrounded_Regions/bfs_with_memo.py) |
 | 0131_Palindrome_Partitioning | [dfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0131_Palindrome_Partitioning/dfs_with_memo.py) |
