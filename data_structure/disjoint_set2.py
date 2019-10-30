@@ -15,9 +15,6 @@ class DisjointSet:
         # an array stores rank(height of tree) for const time union
         self.rank = [0] * len(data)
 
-        self.weight = [1] * len(data)
-        self.maxWeight = 0
-
         # hashmap to find index of value
         self.dic = defaultdict(lambda: -1)
         for i in range(len(data)):
@@ -30,16 +27,10 @@ class DisjointSet:
             return
         if self.rank[arep] < self.rank[brep]:
             self.parents[arep] = brep
-            self.weight[brep] += self.weight[arep]
-            self.maxWeight = max(self.maxWeight, self.weight[brep])
         elif self.rank[arep] > self.rank[brep]:
             self.parents[brep] = arep
-            self.weight[arep] += self.weight[brep]
-            self.maxWeight = max(self.maxWeight, self.weight[arep])
         else:
             self.parents[arep] = brep
-            self.weight[brep] += self.weight[arep]
-            self.maxWeight = max(self.maxWeight, self.weight[brep])
             self.rank[brep] += 1
 
     def find(self, i):
@@ -62,14 +53,12 @@ class DisjointSet:
             if c >= 0:
                 self.union(a, c)
 
-    def debug(self):
-        for i in range(len(self.parents)):
-            print(self.parents[i])
-
-data = [rd.randrange(100) for i in range(30)]
+data = [i for i in range(10)]
 dset = DisjointSet(data)
-dset.debug()
-print("========")
-print(data)
-dset.selfmerge()
-dset.debug()
+dset.union(2, 3)
+dset.union(3, 4)
+dset.union(6, 9)
+dset.union(4, 9)
+print("====")
+for i in range(10):
+    print(dset.find(i))
