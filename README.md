@@ -189,5 +189,6 @@ Solutions for Leetcode problems
 | 0360_Sort_Transformed_Array | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
 | 0370_Range_Addition => https://www.lintcode.com/problem/range-addition/description | [iter_reduce.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0370_Range_Addition/iter_reduce.py) |
 | 0470_Trapping_Rain_Water_II | [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0470_Trapping_Rain_Water_II/priority_queue.java) |
+| 0494_Target_Sum | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/dp.java) |
 | 0598_Range_Addition_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0598_Range_Addition_II/iter.py) |
 | 0703_Kth_Largest_Element_in_a_Stream | [heap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/heap.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.java) |
