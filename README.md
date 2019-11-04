@@ -189,6 +189,7 @@ Solutions for Leetcode problems
 | 0360_Sort_Transformed_Array | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
 | 0370_Range_Addition => https://www.lintcode.com/problem/range-addition/description | [iter_reduce.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0370_Range_Addition/iter_reduce.py) |
 | 0470_Trapping_Rain_Water_II | [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0470_Trapping_Rain_Water_II/priority_queue.java) |
+| 0475_Heaters | [two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0475_Heaters/two_pointers.py) <br> [brute_force.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0475_Heaters/brute_force.java) |
 | 0485_Max_Consecutive_Ones | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0485_Max_Consecutive_Ones/iter.py) |
 | 0487_Max_Consecutive_Ones_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0487_Max_Consecutive_Ones_II/iter.py) |
 | 0494_Target_Sum | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_with_memo.py) <br> [recur_brute_force.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_brute_force.cpp) <br> [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/dp.java) |
