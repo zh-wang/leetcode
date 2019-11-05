@@ -193,5 +193,6 @@ Solutions for Leetcode problems
 | 0485_Max_Consecutive_Ones | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0485_Max_Consecutive_Ones/iter.py) |
 | 0487_Max_Consecutive_Ones_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0487_Max_Consecutive_Ones_II/iter.py) |
 | 0494_Target_Sum | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_with_memo.py) <br> [recur_brute_force.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_brute_force.cpp) <br> [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/dp.java) |
+| 0498_Diagonal_Traverse | [iter_with_zip.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0498_Diagonal_Traverse/iter_with_zip.py) |
 | 0598_Range_Addition_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0598_Range_Addition_II/iter.py) |
 | 0703_Kth_Largest_Element_in_a_Stream | [heap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/heap.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.java) |
