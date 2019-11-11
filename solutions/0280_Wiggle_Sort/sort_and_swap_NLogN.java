@@ -1,5 +1,5 @@
 // --Link--
-// [LintCode](https://www.lintcode.com/problem/wiggle-sort/description)
+// https://www.lintcode.com/problem/wiggle-sort/description
 //
 public class Solution {
     /*

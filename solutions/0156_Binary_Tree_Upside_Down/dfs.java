@@ -1,5 +1,5 @@
 // --Link--
-// [LintCode](https://www.lintcode.com/problem/binary-tree-upside-down/description)
+// https://www.lintcode.com/problem/binary-tree-upside-down/description
 
 /**
  * Definition of TreeNode:
