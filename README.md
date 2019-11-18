@@ -187,7 +187,7 @@ Solutions for Leetcode problems
 | 0201_Happy_Number | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0201_Happy_Number/iter.java) |
 | 0203_Remove_Linked_List_Elements | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0203_Remove_Linked_List_Elements/iter.java) |
 | 0204_Count_Primes | [prime_table.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0204_Count_Primes/prime_table.java) |
-| 0205_Isomorphic_Strings | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter.java) |
+| 0205_Isomorphic_Strings | [iter_faster.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter_faster.py) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter.java) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
