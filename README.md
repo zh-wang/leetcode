@@ -190,6 +190,7 @@ Solutions for Leetcode problems
 | 0205_Isomorphic_Strings | [iter_faster.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter_faster.py) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter.java) |
 | 0206_Course_Schedule | [dfs_dag_find_cycle.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Course_Schedule/dfs_dag_find_cycle.py) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
+| 0208_Implement_Trie | [simple_trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0208_Implement_Trie/simple_trie.py) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms [LintCode](https://www.lintcode.com/problem/meeting-rooms/description) | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
