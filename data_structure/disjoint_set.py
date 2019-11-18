@@ -59,7 +59,7 @@ class DisjointSet:
             if b >= 0:
                 self.union(a, b)
             c = self.dic[self.data[i] + 1]
-            if c >= 0:
+            idf c >= 0:
                 self.union(a, c)
 
     def debug(self):

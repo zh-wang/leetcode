@@ -43,16 +43,6 @@ class DisjointSet:
             self.parents[i] = represent
             return represent
 
-    def selfmerge(self):
-        for i in range(len(self.data)): # for each set
-            a = self.dic[self.data[i]]
-            b = self.dic[self.data[i] - 1]
-            if b >= 0:
-                self.union(a, b)
-            c = self.dic[self.data[i] + 1]
-            if c >= 0:
-                self.union(a, c)
-
 data = [i for i in range(10)]
 dset = DisjointSet(data)
 dset.union(2, 3)
