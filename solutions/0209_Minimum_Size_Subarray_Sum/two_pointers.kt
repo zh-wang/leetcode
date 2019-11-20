@@ -1,3 +1,5 @@
+// STAR
+
 class Solution {
     fun minSubArrayLen(s: Int, nums: IntArray): Int {
         if (nums.size == 0) return 0
