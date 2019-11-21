@@ -59,4 +59,5 @@ def lps(node, d):
         return lps(next, d + 1)
     return d
 
+dfs(trie.root, 0)
 print(lps(trie.root, 0))
