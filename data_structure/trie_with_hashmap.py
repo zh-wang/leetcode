@@ -26,18 +26,31 @@ class Trie(object):
                 return False
         return True if '$' in node else False
 
+    def contains2(self, word):
+        nodes = [self.root]
+        for c in word:
+            new_nodes = []
+            if c == '.':
+                new_nodes += [ node[entry] for node in nodes for entry in node ]
+            else:
+                new_nodes += [ node[entry] for node in nodes for entry in node if entry == c ]
+            nodes = new_nodes
+        return '$' in [ entry for node in nodes for entry in node ]
+
 trie = Trie()
 trie.insert("asdf")
 trie.insert("asfewji")
 trie.insert("asfeiwfj")
 trie.insert("asss")
 trie.insert("asfe")
+trie.insert("bsfe")
 trie.insert("a")
 
 print(trie.startWith('as'))
 print(trie.startWith('asfefw'))
 print(trie.contains('asfeiwfj'))
 print(trie.contains('asfeiwfx'))
+print(trie.contains2('as.fi.fj'))
 
 # def dfs(node, d):
     # if node.isEnd:
