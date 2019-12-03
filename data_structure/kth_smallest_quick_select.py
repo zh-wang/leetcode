@@ -1,11 +1,11 @@
 import random as rd
 
 def kth_smallest(nums, l, r, k):
-    p = rd.randrange(l, r+1) # partition between index p
+    p = rd.randrange(l, r + 1) # partition between index p
     pivot = nums[p]
     nums[p], nums[r] = nums[r], nums[p] # swap pivot to right
     lowest = l
-    for i in range(lowest, len(nums)):
+    for i in range(lowest, r + 1):
         if nums[i] < pivot:
             nums[i], nums[lowest] = nums[lowest], nums[i]
             lowest += 1
