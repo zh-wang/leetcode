@@ -200,6 +200,7 @@ Solutions for Leetcode problems
 | 0215_Kth_Largest_Element_in_an_Array | [quick_select.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/quick_select.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/priority_queue.java) |
 | 0216_Combination_Sum_III | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0216_Combination_Sum_III/backtracking.py) |
 | 0217_Contains_Duplicate | [set.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0217_Contains_Duplicate/set.java) |
+| 0219_Contains_Duplicate_II | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0219_Contains_Duplicate_II/hash.py) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms [LintCode](https://www.lintcode.com/problem/meeting-rooms/description) | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
