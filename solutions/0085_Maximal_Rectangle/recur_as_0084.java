@@ -7,6 +7,14 @@ class Solution {
         if (matrix[0] == null || matrix[0].length == 0) return 0;
         int m = matrix.length;
         int n = matrix[0].length;
+        // handle matrix input as N histogram
+        // n-th histogram is base on the n-th input row
+        // e.g. matrix = [1, 1, 0]
+        //               [1, 0, 1]
+        //               [0, 1, 1]
+        // 1st histogram => [1, 1, 0]
+        // 2sd histogram => [2, 0, 1]
+        // 3rd histogram => [0, 1, 2]
         int[] hist = new int[n];
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
@@ -46,4 +54,4 @@ class Solution {
             }
         }
     }
-    }
+}

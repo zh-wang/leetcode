@@ -81,7 +81,7 @@ Solutions for Leetcode problems
 | 0082_Remove_Duplicates_from_Sorted_List_II | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0082_Remove_Duplicates_from_Sorted_List_II/linked_list.py) |
 | 0083_Remove_Duplicates_from_Sorted_List | [linked_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0083_Remove_Duplicates_from_Sorted_List/linked_list.py) |
 | 0084_Largest_Rectangle_in_Histogram | [min_segment_tree.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/min_segment_tree.py) <br> [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/stack.py) <br> [recur.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/recur.java) |
-| 0085_Maximal_Rectangle | [recur_as_0084.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0085_Maximal_Rectangle/recur_as_0084.java) <br> [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0085_Maximal_Rectangle/dp_2d.py) |
+| 0085_Maximal_Rectangle | [recur_as_0084.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0085_Maximal_Rectangle/recur_as_0084.java) |
 | 0086_Partition_List | [linked_list_ops.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0086_Partition_List/linked_list_ops.java) |
 | 0087_Scramble_String | [recur_with_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo.java) |
 | 0088_Merge_Sorted_Array | [two_points_from_end.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0088_Merge_Sorted_Array/two_points_from_end.java) |
