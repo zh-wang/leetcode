@@ -203,6 +203,7 @@ Solutions for Leetcode problems
 | 0219_Contains_Duplicate_II | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0219_Contains_Duplicate_II/hash.py) |
 | 0220_Contains_Duplicate_III | [treeset.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0220_Contains_Duplicate_III/treeset.java) ⭐️ |
 | 0221_Maximal_Square | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0221_Maximal_Square/dp_2d.py) |
+| 0222_Count_Complete_Tree_Nodes | [brute_force.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0222_Count_Complete_Tree_Nodes/brute_force.java) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms [LintCode](https://www.lintcode.com/problem/meeting-rooms/description) | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
