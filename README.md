@@ -196,7 +196,7 @@ Solutions for Leetcode problems
 | 0211_Add_and_Search_Word | [hashmap_reverse_check.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/hashmap_reverse_check.kt) <br> [trie_by_hashmap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/trie_by_hashmap.py) <br> [trie_based_dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/trie_based_dfs.py) |
 | 0212_Word_Search_II | [trie_with_dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0212_Word_Search_II/trie_with_dfs.py) |
 | 0213_House_Robber_II | [dp_two_pass.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0213_House_Robber_II/dp_two_pass.py) |
-| 0214_Shortest_Palindrome | [brute_force_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0214_Shortest_Palindrome/brute_force_pythonic.py) |
+| 0214_Shortest_Palindrome | [kmp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0214_Shortest_Palindrome/kmp.py) ⭐️ <br> [brute_force_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0214_Shortest_Palindrome/brute_force_pythonic.py) |
 | 0215_Kth_Largest_Element_in_an_Array | [quick_select.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/quick_select.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/priority_queue.java) |
 | 0216_Combination_Sum_III | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0216_Combination_Sum_III/backtracking.py) |
 | 0217_Contains_Duplicate | [set.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0217_Contains_Duplicate/set.java) |
