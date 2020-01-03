@@ -200,6 +200,7 @@ Solutions for Leetcode problems
 | 0215_Kth_Largest_Element_in_an_Array | [quick_select.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/quick_select.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0215_Kth_Largest_Element_in_an_Array/priority_queue.java) |
 | 0216_Combination_Sum_III | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0216_Combination_Sum_III/backtracking.py) |
 | 0217_Contains_Duplicate | [set.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0217_Contains_Duplicate/set.java) |
+| 0218_The_Skyline_Problem | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0218_The_Skyline_Problem/simu.java) |
 | 0219_Contains_Duplicate_II | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0219_Contains_Duplicate_II/hash.py) |
 | 0220_Contains_Duplicate_III | [treeset.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0220_Contains_Duplicate_III/treeset.java) ⭐️ |
 | 0221_Maximal_Square | [dp_2d.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0221_Maximal_Square/dp_2d.py) |
