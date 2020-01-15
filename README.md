@@ -209,6 +209,7 @@ Solutions for Leetcode problems
 | 0224_Basic_Calculator | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0224_Basic_Calculator/stack.py) |
 | 0225_Implement_Stack_using_Queues | [two_queues.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0225_Implement_Stack_using_Queues/two_queues.py) <br> [one_queue.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0225_Implement_Stack_using_Queues/one_queue.py) |
 | 0226_Invert_Binary_Tree | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0226_Invert_Binary_Tree/recur.py) |
+| 0227_Basic_Calculator_II | [simu_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0227_Basic_Calculator_II/simu_with_stack.py) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms [LintCode](https://www.lintcode.com/problem/meeting-rooms/description) | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
