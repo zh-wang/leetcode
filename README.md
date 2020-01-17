@@ -188,8 +188,8 @@ Solutions for Leetcode problems
 | 0203_Remove_Linked_List_Elements | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0203_Remove_Linked_List_Elements/iter.java) |
 | 0204_Count_Primes | [prime_table.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0204_Count_Primes/prime_table.java) |
 | 0205_Isomorphic_Strings | [iter_faster.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter_faster.py) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0205_Isomorphic_Strings/iter.java) |
-| 0206_Course_Schedule | [dfs_dag_find_cycle.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Course_Schedule/dfs_dag_find_cycle.py) |
 | 0206_Reverse_Linked_List | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0206_Reverse_Linked_List/recur.py) |
+| 0207_Course_Schedule | [dfs_dag_find_cycle.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0207_Course_Schedule/dfs_dag_find_cycle.py) |
 | 0208_Implement_Trie | [simple_trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0208_Implement_Trie/simple_trie.py) |
 | 0209_Minimum_Size_Subarray_Sum | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0209_Minimum_Size_Subarray_Sum/binary_search.py) <br> [two_pointers.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0209_Minimum_Size_Subarray_Sum/two_pointers.kt) ⭐️ |
 | 0210_Course_Schedule_II | [dfs_dag_toplogical_sort.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0210_Course_Schedule_II/dfs_dag_toplogical_sort.py) |
