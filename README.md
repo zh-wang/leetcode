@@ -212,7 +212,7 @@ Solutions for Leetcode problems
 | 0227_Basic_Calculator_II | [simu_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0227_Basic_Calculator_II/simu_with_stack.py) |
 | 0228_Summary_Ranges | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter.java) <br> [iter_with_exp_inc.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0228_Summary_Ranges/iter_with_exp_inc.java) ⭐️ |
 | 0229_Majority_Element_II | [boyer_moore.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0229_Majority_Element_II/boyer_moore.py) |
-| 0230_Kth_Smallest_Element_in_a_BST | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0230_Kth_Smallest_Element_in_a_BST/dfs.py) |
+| 0230_Kth_Smallest_Element_in_a_BST | [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0230_Kth_Smallest_Element_in_a_BST/iter_with_stack.py) ⭐️ <br> [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0230_Kth_Smallest_Element_in_a_BST/dfs.py) |
 | 0231_Power_of_Two | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0231_Power_of_Two/math.py) |
 | 0240_Search_a_2D_Matrix_II | [binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/binary_search.java) <br> [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0240_Search_a_2D_Matrix_II/iter.java) ⭐️ |
 | 0252_Meeting_Rooms [LintCode](https://www.lintcode.com/problem/meeting-rooms/description) | [sort_and_iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0252_Meeting_Rooms/sort_and_iter.java) |
