@@ -1,5 +1,5 @@
-// --Link--
-// https://www.lintcode.com/problem/shortest-word-distance/description
+# --Link--
+# https://www.lintcode.com/problem/shortest-word-distance/description
 
 class Solution:
     """
