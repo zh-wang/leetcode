@@ -21,15 +21,13 @@ class Solution:
         if not pa or not pb:
             return -1
         i, j = 0, 0
-        best = abs(pa[i] - pb[j])
-        while True:
+        best = 1 << 32
+        while i < len(pa) and j < len(pb):
+            best = min(abs(pa[i] - pb[j]), best)
             if pa[i] > pb[j]:
                 j += 1
             else:
                 i += 1
-            if i >= len(pa) or j >= len(pb):
-                break
-            best = min(abs(pa[i] - pb[j]), best)
         return best
 
 words = ['a', 'b', 'c', 'b', 'a', 'b', 'g', 'g', 'k']
