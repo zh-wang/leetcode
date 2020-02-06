@@ -1,5 +1,5 @@
-// --Link--
-// https://www.lintcode.com/problem/strobogrammatic-number/description
+# --Link--
+# https://www.lintcode.com/problem/strobogrammatic-number/description
 
 class Solution:
     """

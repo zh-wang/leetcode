@@ -1,3 +1,6 @@
+// --Link--
+// https://www.lintcode.com/problem/strobogrammatic-number-ii/description
+
 public class Solution {
 
     String[] nums = {"0", "1", "6", "8", "9"};
