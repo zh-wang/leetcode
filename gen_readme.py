@@ -1,3 +1,5 @@
+#!/Users/zhenghongwang/.pyenv/shims/python3
+
 import glob, os
 
 GITHUB_FILE_LINK_PREFIX = "https://github.com/zh-wang/leetcode/blob/master/solutions/"
@@ -26,7 +28,7 @@ if __name__ == "__main__":
                     is_favo = '⭐️' in first_line or 'STAR' in first_line
                     if 'Link' in first_line:
                         has_link = True
-                        link = in_file.readline()[3:-1]
+                        link = in_file.readline().split(' ')[1].strip()
                     if os.path.basename(sol) == 'prob.md':
                         has_prob = True
                 except Exception as e:
