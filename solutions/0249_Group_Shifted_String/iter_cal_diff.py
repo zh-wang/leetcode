@@ -17,15 +17,12 @@ class Solution:
         return [ myList for myList in groupByHash.values() ]
 
     def cal(self, str):
-        if not str:
-            return -1
-        shift = -1
-        ret = 0
-        for c in str:
-            if shift == -1:
-                shift = ord(c) - ord('a')
-            ret += ret * 31 + (ord(c) - shift)
+        if len(str) == 1:
+            return ''
+        ret = ''
+        for i in range(1, len(str)):
+            ret += chr( (ord(str[i]) - ord(str[i-1])) % 26 )
         return ret
 
-x = Solution().groupShiftString(["acd", "dfg", "wyz", "yab", "mop", "bdfh", "a", "x", "moqs"])
+x = Solution().groupShiftString(["acd", "dfg", "wyz", "yab", "mop", "ife",  "bdfh", "a", "x", "moqs"])
 print(x)
