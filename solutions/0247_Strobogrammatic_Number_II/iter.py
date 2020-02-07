@@ -21,4 +21,4 @@ class Solution:
         for s in ret:
             for i in range(startIndex, len(self.nums)):
                 newRet += [ self.nums[i] + s + self.rnums[i] ]
-        return self.generate(n, newRet)k
+        return self.generate(n, newRet)
