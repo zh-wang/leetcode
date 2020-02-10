@@ -27,17 +27,16 @@ public class Solution {
             else return 0;
         });
 
-        // PriorityQueue<Integer> minq = new PriorityQueue<>();
-        // minq.push(intervals.get(0));
-        // for (int i = 1; i < intervals.size(); ++i) {
-
-        // }
         List<Interval> rooms = new ArrayList<>();
         rooms.add(intervals.get(0));
 
+        // for each interval, we want find a room to fit
         for (int i = 1; i < intervals.size(); ++i) {
             boolean foundRoom = false;
+            // for each room we prepared
             for (int j = 0; j < rooms.size(); ++j) {
+                // if we can find a room which is NOT overlapped with an interval
+                // we can extend the room's ocupied time to the end of that interval
                 if (rooms.get(j).end <= intervals.get(i).start) {
                     rooms.get(j).end = intervals.get(i).end;
                     foundRoom = true;

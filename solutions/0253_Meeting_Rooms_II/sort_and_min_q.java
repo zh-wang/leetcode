@@ -1,4 +1,4 @@
-// --Link--
+// --STAR-- --Link--
 // https://www.lintcode.com/problem/meeting-rooms-ii/description
 
 /**
