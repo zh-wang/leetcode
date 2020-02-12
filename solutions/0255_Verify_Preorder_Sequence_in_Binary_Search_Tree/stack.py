@@ -1,3 +1,6 @@
+# --STAR-- --Link--
+# https://www.lintcode.com/problem/verify-preorder-sequence-in-binary-search-tree/description
+
 class Solution:
     """
     @param preorder: List[int]
