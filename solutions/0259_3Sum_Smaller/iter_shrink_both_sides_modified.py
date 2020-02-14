@@ -1,3 +1,5 @@
+# --STAR--
+
 class Solution:
     """
     @param nums:  an array of n integers
