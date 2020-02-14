@@ -242,6 +242,7 @@ Solutions for Leetcode problems
 | 0257_Binary_Tree_Paths [LintCode](https://www.lintcode.com/problem/binary-tree-paths/description) | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0257_Binary_Tree_Paths/recur.py) |
 | 0258_Add_Digits | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0258_Add_Digits/iter.py) <br> [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0258_Add_Digits/math.py) |
 | 0259_3Sum_Smaller [LintCode](https://www.lintcode.com/problem/3sum-smaller/description) | [iter_shrink_both_sides.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0259_3Sum_Smaller/iter_shrink_both_sides.java) <br> [iter_shrink_both_sides_modified.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0259_3Sum_Smaller/iter_shrink_both_sides_modified.py) ⭐️ |
+| 0260_Single_Number_III | [bit_opt.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0260_Single_Number_III/bit_opt.py) |
 | 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
 | 0280_Wiggle_Sort [LintCode](https://www.lintcode.com/problem/wiggle-sort/description) | [only_swap_N.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/only_swap_N.cpp) ⭐️ <br> [sort_and_swap_NLogN.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/sort_and_swap_NLogN.java) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
