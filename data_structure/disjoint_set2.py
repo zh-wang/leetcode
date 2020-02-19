@@ -15,11 +15,6 @@ class DisjointSet:
         # an array stores rank(height of tree) for const time union
         self.rank = [0] * len(data)
 
-        # hashmap to find index of value
-        self.dic = defaultdict(lambda: -1)
-        for i in range(len(data)):
-            self.dic[data[i]] = i
-
     def union(self, a, b):
         arep = self.find(a) # a's representation
         brep = self.find(b) # b's representation
