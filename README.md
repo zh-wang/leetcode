@@ -247,6 +247,7 @@ Solutions for Leetcode problems
 | 0263_Ugly_Number | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0263_Ugly_Number/iter.py) |
 | 0264_Ugly_Number_II | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0264_Ugly_Number_II/math.py) ⭐️ |
 | 0265_Paint_House_II [LintCode](https://www.lintcode.com/problem/paint-house-ii/description) | [dp_with_second_min.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0265_Paint_House_II/dp_with_second_min.py) <br> [dp_with_special_min.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0265_Paint_House_II/dp_with_special_min.py) |
+| 0266_Palindrome_Permutation [LintCode](https://www.lintcode.com/problem/palindrome-permutation/description) | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0266_Palindrome_Permutation/iter.py) |
 | 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
 | 0280_Wiggle_Sort [LintCode](https://www.lintcode.com/problem/wiggle-sort/description) | [only_swap_N.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/only_swap_N.cpp) ⭐️ <br> [sort_and_swap_NLogN.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0280_Wiggle_Sort/sort_and_swap_NLogN.java) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
