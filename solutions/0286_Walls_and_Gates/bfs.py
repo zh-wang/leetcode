@@ -1,3 +1,6 @@
+# --Link--
+# https://www.lintcode.com/problem/walls-and-gates/description
+
 class Solution:
     """
     @param rooms: m x n 2D grid
