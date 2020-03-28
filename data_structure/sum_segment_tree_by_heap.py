@@ -1,14 +1,12 @@
-# STAR
+from math import log2, ceil
 
-class NumArray:
-
-    def __init__(self, nums: List[int]):
-        if not nums:
-            return
+class SumSegmentTree:
+    def __init__(self, nums):
         self._nums = nums
         self.height = ceil(log2(len(nums))) + 1
         self.n = len(nums)
         self.max_size = 2**self.height - 1
+        # `nodes` stores (min value, index of the min value in `nums`)
         self.nodes = [-1 for _ in range(self.max_size)]
         self.build(nums, 0, len(nums) - 1, 0)
 
@@ -22,7 +20,7 @@ class NumArray:
         self.nodes[i] = self.build(nums, l, mid, i * 2 + 1) + self.build(nums, mid+1, r, i * 2 + 2)
         return self.nodes[i]
 
-    def update(self, k: int, val: int) -> None:
+    def update(self, k, val):
         l, r = 0, self.n - 1
         i = 0
         diff = val - self._nums[k]
@@ -38,19 +36,21 @@ class NumArray:
         self.nodes[i] += diff
         self._nums[k] = val
 
-    def sumRange(self, i: int, j: int) -> int:
-        return self._sumRange(i, j, 0, self.n - 1, 0)
+    def query_range(self, ql, qr):
+        return self._query_range(ql, qr, 0, self.n - 1, 0)
 
-    def _sumRange(self, ql, qr, l, r, i):
+    def _query_range(self, ql, qr, l, r, i):
+        # print(ql, qr, l, r, i)
         if ql <= l and qr >= r:
+            # print('found ', self.nodes[i])
             return self.nodes[i]
         if ql > r or qr < l:
             return 0
         mid = (l + r) // 2
-        return self._sumRange(ql, qr, l, mid, i * 2 + 1) + self._sumRange(ql, qr, mid+1, r, i * 2 + 2)
+        return self._query_range(ql, qr, l, mid, i * 2 + 1) + self._query_range(ql, qr, mid+1, r, i * 2 + 2)
 
-
-# Your NumArray object will be instantiated and called as such:
-# obj = NumArray(nums)
-# obj.update(i,val)
-# param_2 = obj.sumRange(i,j)
+st = SumSegmentTree([1,2,3,4,3,2,1])
+print(st.nodes)
+st.update(0, 3)
+st.update(1, 3)
+print(st.query_range(0, 5))
