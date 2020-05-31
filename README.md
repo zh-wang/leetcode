@@ -288,6 +288,7 @@ Solutions for Leetcode problems
 | 0325_Maximum_Size_Subarray_Sum_Equals_k | [iter_and_hashmap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0325_Maximum_Size_Subarray_Sum_Equals_k/iter_and_hashmap.java) |
 | 0326_Power_of_Three | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0326_Power_of_Three/iter.java) |
 | 0328_Odd_Even_Linked_List | [linked_list_opt.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0328_Odd_Even_Linked_List/linked_list_opt.java) |
+| 0332_Reconstruct_Itinerary | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0332_Reconstruct_Itinerary/dfs.java) |
 | 0334_Increasing_Triplet_Subsequence | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0334_Increasing_Triplet_Subsequence/iter.java) |
 | 0337_House_Robber_III | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0337_House_Robber_III/dfs.java) |
 | 0360_Sort_Transformed_Array | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
