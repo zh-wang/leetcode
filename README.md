@@ -292,6 +292,7 @@ Solutions for Leetcode problems
 | 0334_Increasing_Triplet_Subsequence | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0334_Increasing_Triplet_Subsequence/iter.java) |
 | 0337_House_Robber_III | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0337_House_Robber_III/dfs.java) |
 | 0338_Counting_Bits | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0338_Counting_Bits/math.py) <br> [math.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0338_Counting_Bits/math.java) |
+| 0342_Power_of_Four | [math.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0342_Power_of_Four/math.java) |
 | 0360_Sort_Transformed_Array | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
 | 0370_Range_Addition [LintCode](https://www.lintcode.com/problem/range-addition/description) | [iter_reduce.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0370_Range_Addition/iter_reduce.py) |
 | 0391_Perfect_Rectangle | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0391_Perfect_Rectangle/math.py) |
