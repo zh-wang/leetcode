@@ -192,7 +192,7 @@ Solutions for Leetcode problems
 | 0207_Course_Schedule | [dfs_dag_find_cycle.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0207_Course_Schedule/dfs_dag_find_cycle.py) |
 | 0208_Implement_Trie | [simple_trie.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0208_Implement_Trie/simple_trie.py) |
 | 0209_Minimum_Size_Subarray_Sum | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0209_Minimum_Size_Subarray_Sum/binary_search.py) <br> [two_pointers.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0209_Minimum_Size_Subarray_Sum/two_pointers.kt) ⭐️ |
-| 0210_Course_Schedule_II | [dfs_dag_toplogical_sort.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0210_Course_Schedule_II/dfs_dag_toplogical_sort.py) |
+| 0210_Course_Schedule_II [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0210_Course_Schedule_II/prob.md) | [dfs_dag_topological_sort.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0210_Course_Schedule_II/dfs_dag_topological_sort.py) |
 | 0211_Add_and_Search_Word | [hashmap_reverse_check.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/hashmap_reverse_check.kt) <br> [trie_by_hashmap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/trie_by_hashmap.py) <br> [trie_based_dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0211_Add_and_Search_Word/trie_based_dfs.py) |
 | 0212_Word_Search_II | [trie_with_dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0212_Word_Search_II/trie_with_dfs.py) |
 | 0213_House_Robber_II | [dp_two_pass.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0213_House_Robber_II/dp_two_pass.py) |
