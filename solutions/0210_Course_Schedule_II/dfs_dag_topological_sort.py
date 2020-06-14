@@ -3,6 +3,10 @@ class Solution:
         edges = [[] for _ in range(numCourses)]
         for e in prerequisites:
             edges[e[0]] += [e[1]]
+        # 0 => init
+        # 1 => opened(there is a search path starts from this node)
+        #      Therefore, if this node is visited again then a cycle exists
+        # 2 => closed(can be skipped in later search)
         state = [0 for _ in range(numCourses)]
         order = []
         solvable = True
@@ -11,7 +15,6 @@ class Solution:
         return order if solvable else []
 
     def dfs(self, edges, state, i, order):
-        print(i)
         if state[i] == 1:
             return False
         if state[i] > 1:
