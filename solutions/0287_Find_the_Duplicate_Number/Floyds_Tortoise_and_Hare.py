@@ -1,3 +1,5 @@
+# STAR
+
 import functools
 
 class Solution:

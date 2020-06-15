@@ -263,7 +263,7 @@ Solutions for Leetcode problems
 | 0284_Peeking_Iterator | [simple.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0284_Peeking_Iterator/simple.py) |
 | 0285_Inorder_Successor_in_BST [LintCode](https://www.lintcode.com/problem/inorder-successor-in-bst/description) | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0285_Inorder_Successor_in_BST/binary_search.py) |
 | 0286_Walls_and_Gates [LintCode](https://www.lintcode.com/problem/walls-and-gates/description) | [bfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0286_Walls_and_Gates/bfs.py) |
-| 0287_Find_the_Duplicate_Number | [Floyds_Tortoise_and_Hare.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0287_Find_the_Duplicate_Number/Floyds_Tortoise_and_Hare.py) |
+| 0287_Find_the_Duplicate_Number | [Floyds_Tortoise_and_Hare.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0287_Find_the_Duplicate_Number/Floyds_Tortoise_and_Hare.py) ⭐️ |
 | 0288_Unique_Word_Abbreviation [LintCode](https://www.lintcode.com/problem/unique-word-abbreviation/description) | [set.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0288_Unique_Word_Abbreviation/set.py) |
 | 0289_Game_of_Life | [simu.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0289_Game_of_Life/simu.java) |
 | 0290_Word_Pattern | [one_dict.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0290_Word_Pattern/one_dict.py) <br> [dict.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0290_Word_Pattern/dict.py) |
