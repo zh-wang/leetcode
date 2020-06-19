@@ -297,7 +297,9 @@ Solutions for Leetcode problems
 | 0344_Reverse_String | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0344_Reverse_String/iter.java) |
 | 0345_Reverse_Vowels_of_a_String | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0345_Reverse_Vowels_of_a_String/iter.java) |
 | 0347_Top_K_Frequent_Elements | [kth_partition.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0347_Top_K_Frequent_Elements/kth_partition.py) <br> [hash_and_heap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0347_Top_K_Frequent_Elements/hash_and_heap.java) |
-| 0349_Intersection_of_Two_Arrays | [two_sets.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0349_Intersection_of_Two_Arrays/two_sets.java) |
+| 0349_Intersection_of_Two_Arrays | [hashmap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0349_Intersection_of_Two_Arrays/hashmap.java) <br> [two_sets.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0349_Intersection_of_Two_Arrays/two_sets.java) |
+| 0350_Intersection_of_Two_Arrays_II | [hashmap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0350_Intersection_of_Two_Arrays_II/hashmap.java) |
+| 0351_Android_Unlock_Patterns [LintCode](https://www.lintcode.com/problem/android-unlock-patterns/description) | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0351_Android_Unlock_Patterns/dfs.java) |
 | 0360_Sort_Transformed_Array [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/prob.md) | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/math.py) <br> [two_points.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0360_Sort_Transformed_Array/two_points.java) |
 | 0370_Range_Addition [LintCode](https://www.lintcode.com/problem/range-addition/description) | [iter_reduce.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0370_Range_Addition/iter_reduce.py) |
 | 0391_Perfect_Rectangle | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0391_Perfect_Rectangle/math.py) |
