@@ -314,3 +314,4 @@ Solutions for Leetcode problems
 | 0572_Subtree_of_Another_Tree | [binary_tree_opts.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0572_Subtree_of_Another_Tree/binary_tree_opts.py) |
 | 0598_Range_Addition_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0598_Range_Addition_II/iter.py) |
 | 0703_Kth_Largest_Element_in_a_Stream | [heap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/heap.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.java) <br> [priority_queue.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.py) |
+| 1288_Remove_Covered_Intervals | [line_sweep.java](https://github.com/zh-wang/leetcode/blob/master/solutions/1288_Remove_Covered_Intervals/line_sweep.java) |
