@@ -20,7 +20,7 @@ Solutions for Leetcode problems
 | 0015_3Sum | [shrink_both_side.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0015_3Sum/shrink_both_side.py) |
 | 0016_3Sum_Closest | [shrink_both_side.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0016_3Sum_Closest/shrink_both_side.py) |
 | 0017_Letter_Combinations_of_a_Phone_Number | [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0017_Letter_Combinations_of_a_Phone_Number/backtracking.java) <br> [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0017_Letter_Combinations_of_a_Phone_Number/backtracking.py) |
-| 0018_4Sum | [def_2sum_as_method.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0018_4Sum/def_2sum_as_method.py) |
+| 0018_4Sum | [def_2sum_as_method.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0018_4Sum/def_2sum_as_method.py) <br> [k_sum_generized_and_hashset.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0018_4Sum/k_sum_generized_and_hashset.java) |
 | 0019_Remove_Nth_Node_From_End_of_List | [trival.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0019_Remove_Nth_Node_From_End_of_List/trival.java) |
 | 0020_Valid_Parentheses | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0020_Valid_Parentheses/stack.py) |
 | 0021_Merge_Two_Sorted_Lists | [trival_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0021_Merge_Two_Sorted_Lists/trival_recur.py) |
