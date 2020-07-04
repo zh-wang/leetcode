@@ -35,10 +35,10 @@ Solutions for Leetcode problems
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
 | 0037_Sudoku_Solver | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0037_Sudoku_Solver/dfs.py) |
 | 0038_Count_and_Say | [counting.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/counting.java) <br> [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
-| 0039_Combination_Sum | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0039_Combination_Sum/dfs.py) |
-| 0040_Combination_Sum_II | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0040_Combination_Sum_II/dfs.py) |
+| 0039_Combination_Sum | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0039_Combination_Sum/backtracking.py) |
+| 0040_Combination_Sum_II | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0040_Combination_Sum_II/backtracking.py) |
 | 0041_First_Missing_Positive | [trick_in_slot_check.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0041_First_Missing_Positive/trick_in_slot_check.py) |
-| 0042_Trapping_Rain_Water | [brute.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/brute.py) <br> [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/dp.py) <br> [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/stack.py) <br> [trick_two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/trick_two_pointers.py) |
+| 0042_Trapping_Rain_Water | [brute.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/brute.py) <br> [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/dp.py) <br> [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/stack.py) <br> [trick_two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0042_Trapping_Rain_Water/trick_two_pointers.py) ⭐️ |
 | 0043_Multiply_Strings | [trival_reversed_list.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0043_Multiply_Strings/trival_reversed_list.py) |
 | 0044_Wildcard_Matching | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0044_Wildcard_Matching/dp.py) |
 | 0045_Jump_Game_II | [greedy.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0045_Jump_Game_II/greedy.py) |
