@@ -34,7 +34,7 @@ Solutions for Leetcode problems
 | 0035_Search_Insert_Position | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0035_Search_Insert_Position/binary_search.py) |
 | 0036_Valid_Sudoku | [hashset.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0036_Valid_Sudoku/hashset.py) |
 | 0037_Sudoku_Solver | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0037_Sudoku_Solver/dfs.py) |
-| 0038_Count_and_Say | [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
+| 0038_Count_and_Say | [counting.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/counting.java) <br> [trival_counting.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0038_Count_and_Say/trival_counting.py) |
 | 0039_Combination_Sum | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0039_Combination_Sum/dfs.py) |
 | 0040_Combination_Sum_II | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0040_Combination_Sum_II/dfs.py) |
 | 0041_First_Missing_Positive | [trick_in_slot_check.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0041_First_Missing_Positive/trick_in_slot_check.py) |
