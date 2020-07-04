@@ -44,7 +44,7 @@ Solutions for Leetcode problems
 | 0045_Jump_Game_II | [greedy.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0045_Jump_Game_II/greedy.py) |
 | 0046_Permutations | [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/list_concat.py) <br> [dfs_modify_input_array.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0046_Permutations/dfs_modify_input_array.py) |
 | 0047_Permutations_II | [dfs.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/dfs.kt) <br> [list_concat_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat_pythonic.py) <br> [list_concat.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat.py) <br> [list_concat.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0047_Permutations_II/list_concat.java) |
-| 0048_Rotate_Image | [trival.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0048_Rotate_Image/trival.py) |
+| 0048_Rotate_Image | [loop_by_circle_in_space.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0048_Rotate_Image/loop_by_circle_in_space.py) |
 | 0049_Group_Anagrams | [concise_tuple_sorted.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0049_Group_Anagrams/concise_tuple_sorted.py) |
 | 0050_Pow_x_n | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/recur.py) <br> [iterative.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0050_Pow_x_n/iterative.py) |
 | 0051_N_Queens | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0051_N_Queens/backtracking.py) |
