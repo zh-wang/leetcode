@@ -83,7 +83,7 @@ Solutions for Leetcode problems
 | 0084_Largest_Rectangle_in_Histogram | [min_segment_tree.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/min_segment_tree.py) <br> [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/stack.py) <br> [recur.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0084_Largest_Rectangle_in_Histogram/recur.java) |
 | 0085_Maximal_Rectangle | [recur_as_0084.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0085_Maximal_Rectangle/recur_as_0084.java) |
 | 0086_Partition_List | [linked_list_ops.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0086_Partition_List/linked_list_ops.java) |
-| 0087_Scramble_String | [recur_with_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo.java) |
+| 0087_Scramble_String | [recur_with_memo_faster.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo_faster.java) <br> [recur_with_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo.java) |
 | 0088_Merge_Sorted_Array | [two_points_from_end.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0088_Merge_Sorted_Array/two_points_from_end.java) |
 | 0089_Gray_Code | [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0089_Gray_Code/backtracking.java) |
 | 0090_Subsets_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0090_Subsets_II/iter.py) |

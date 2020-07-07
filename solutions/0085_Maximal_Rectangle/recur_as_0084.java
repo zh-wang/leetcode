@@ -9,12 +9,14 @@ class Solution {
         int n = matrix[0].length;
         // handle matrix input as N histogram
         // n-th histogram is base on the n-th input row
+        // height is accumulated if 1 can be found consecutively
         // e.g. matrix = [1, 1, 0]
         //               [1, 0, 1]
         //               [0, 1, 1]
         // 1st histogram => [1, 1, 0]
         // 2sd histogram => [2, 0, 1]
         // 3rd histogram => [0, 1, 2]
+        // each number represents their height
         int[] hist = new int[n];
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
