@@ -86,8 +86,8 @@ Solutions for Leetcode problems
 | 0087_Scramble_String | [recur_with_memo_faster.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo_faster.java) <br> [recur_with_memo.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0087_Scramble_String/recur_with_memo.java) |
 | 0088_Merge_Sorted_Array | [two_points_from_end.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0088_Merge_Sorted_Array/two_points_from_end.java) |
 | 0089_Gray_Code | [backtracking.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0089_Gray_Code/backtracking.java) |
-| 0090_Subsets_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0090_Subsets_II/iter.py) |
-| 0091_Decode_Ways | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0091_Decode_Ways/dp.py) |
+| 0090_Subsets_II | [repeat_on_final_list_pythonic.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0090_Subsets_II/repeat_on_final_list_pythonic.py) <br> [repeat_on_final_list.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0090_Subsets_II/repeat_on_final_list.java) |
+| 0091_Decode_Ways | [dp.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0091_Decode_Ways/dp.py) <br> [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0091_Decode_Ways/dp.java) |
 | 0092_Reverse_Linked_List_II | [linked_list_recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur.py) <br> [linked_list_recur_v2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0092_Reverse_Linked_List_II/linked_list_recur_v2.py) |
 | 0093_Restore_IP_Addresses | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0093_Restore_IP_Addresses/backtracking.py) |
 | 0094_Binary_Tree_Inorder_Traversal | [iter_with_stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0094_Binary_Tree_Inorder_Traversal/iter_with_stack.py) <br> [double_stacks.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0094_Binary_Tree_Inorder_Traversal/double_stacks.java) |
