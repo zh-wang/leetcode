@@ -20,10 +20,8 @@ class Solution:
                         dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
                     else:
                         # We can only not choose s[i-1]
-                        # This means last matching result(i-1 <=> j) will be used
+                        # This means last matching result(dp[i-1][j]) will be used
                         dp[i][j] = dp[i-1][j]
-        for k in dp:
-            print(k)
         return dp[n][m]
 
 Solution().numDistinct('rabbbit','rabbit')
