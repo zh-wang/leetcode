@@ -3,11 +3,13 @@
 
 public class Solution {
 
-    // 1 step movement
+    // 1 step movement(8 directions => left top, top, right top ...)
+    // These movement need to consider next slot is visited or not
     private int[] dx = new int[] { -1, 0, 1 };
     private int[] dy = new int[] { -1, 0, 1 };
 
     // L-style movement
+    // These movement DO NOT need to consider visited
     private int[] di = new int[] { 1, 1, -1, -1, 2, 2, -2, -2 };
     private int[] dj = new int[] { 2, -2, 2, -2, 1, -1, 1, -1 };
 

@@ -31,4 +31,4 @@ class Solution:
             for j in range(1, n):
                 dp[i][j] = dp[i-1][j] and s3[i+j-1] == s1[i-1] or \
                         dp[i][j-1] and s3[i+j-1] == s2[j-1]
-        return dp[m-1][n-1]<Paste>
+        return dp[m-1][n-1]
