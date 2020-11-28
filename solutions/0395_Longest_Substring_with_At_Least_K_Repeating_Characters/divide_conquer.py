@@ -7,14 +7,7 @@ class Solution:
         if k <= 1:
             return len(s)
 
-        self.best = 0
-
-        freq = collections.defaultdict(int)
-        for c in s:
-            freq[c] += 1
-
-        self.recur(s, k)
-        return self.best
+        return self.recur(s, k)
 
     def recur(self, s, k):
         freq = collections.defaultdict(int)
@@ -22,12 +15,13 @@ class Solution:
             freq[c] += 1
 
         if all([v >= k for v in freq.values()]):
-            self.best = max(self.best, len(s))
-            return
+            return len(s)
 
         start = 0
+        best = 0
         for i, c in enumerate(s):
             if freq[c] < k:
-                self.recur(s[start : i], k)
+                best = max(best, self.recur(s[start : i], k))
                 start = i + 1
-        self.recur(s[start:], k)
+        best = max(best, self.recur(s[start:], k))
+        return best
