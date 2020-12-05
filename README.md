@@ -306,6 +306,7 @@ Solutions for Leetcode problems
 | 0377_Combination_Sum_IV | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0377_Combination_Sum_IV/dp.java) |
 | 0390_Elimination_Game | [modified_binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0390_Elimination_Game/modified_binary_search.java) |
 | 0391_Perfect_Rectangle | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0391_Perfect_Rectangle/math.py) |
+| 0392_Is_Subsequence | [two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0392_Is_Subsequence/two_pointers.py) |
 | 0393_UTF-8_Validation | [iter_with_bit_opts.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0393_UTF-8_Validation/iter_with_bit_opts.py) <br> [iter_with_bit_opts2.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0393_UTF-8_Validation/iter_with_bit_opts2.py) |
 | 0394_Decode_String | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0394_Decode_String/recur.py) |
 | 0395_Longest_Substring_with_At_Least_K_Repeating_Characters | [sliding_window.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0395_Longest_Substring_with_At_Least_K_Repeating_Characters/sliding_window.py) ⭐️ <br> [divide_conquer.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0395_Longest_Substring_with_At_Least_K_Repeating_Characters/divide_conquer.py) |
