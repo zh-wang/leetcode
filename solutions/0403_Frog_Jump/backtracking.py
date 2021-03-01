@@ -4,6 +4,7 @@ class Solution:
         for i, v in enumerate(stones):
             self.distToIndex[v] = i
         k = len(stones)
+        # dp[i][j]: whether frog can jump j units from i-th stone
         # -1 => init, 0 => cannot reach, 1 => can reach
         self.dp = [[-1 for _ in range(k)] for _ in range(k)]
         # first jump is from 0 with 1 unit distance
@@ -25,19 +26,13 @@ class Solution:
             self.dp[i][d] = 0
             return 0
 
-        # if frog can jump d - 1, d or d + 1 units from last stone
+        # if frog can jump d - 1, d or d + 1 units from last stone it landed
         # then it can jump d units from here
-        if stones[i] - (d + 1) in self.distToIndex and d + 1 < len(stones) \
-            and self.recur(stones, self.distToIndex[stones[i] - (d + 1)], d + 1):
-            self.dp[i][d] = 1
-            return 1
-        if stones[i] - (d + 0) in self.distToIndex \
-            and self.recur(stones, self.distToIndex[stones[i] - (d + 0)], d + 0):
-            self.dp[i][d] = 1
-            return 1
-        if stones[i] - (d - 1) in self.distToIndex and d - 1 > 0 \
-            and self.recur(stones, self.distToIndex[stones[i] - (d - 1)], d - 1):
-            self.dp[i][d] = 1
-            return 1
+        for x in [d + 1, d, d - 1]:
+            if stones[i] - x in self.distToIndex and 0 < x < len(stones) \
+                and self.recur(stones, self.distToIndex[stones[i] - x], x):
+                self.dp[i][d] = 1
+                return 1
+
         self.dp[i][d] = 0
         return 0
