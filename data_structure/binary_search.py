@@ -80,6 +80,7 @@ test(binary_search_k, arr, 4, 1)
 test(binary_search_k, arr, 5, 2)
 test(binary_search_k, arr, 6, 3)
 
+#      0  1  2  3  4  5  6  7  8  9 10 11 12  13
 arr = [1, 1, 2, 2, 2, 3, 3, 5, 6, 9, 9, 9, 9, 10]
 test(find_exact, arr, 10, 13)
 
@@ -95,6 +96,7 @@ test(find_lower_bound, arr, 5, 5)
 arr = [1,3,6,10,15]
 test(find_lower_bound, arr, 4, 2)
 
+#      0  1  2  3  4  5  6  7  8  9  10 11 12 13
 arr = [1, 1, 2, 2, 2, 3, 3, 5, 6, 9, 9, 9, 9, 10]
 test(find_upper_bound, arr, 5, 6)
 test(find_upper_bound, arr, 6, 7)
