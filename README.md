@@ -318,6 +318,7 @@ Solutions for Leetcode problems
 | 0401_Binary_Watch | [combinations.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0401_Binary_Watch/combinations.py) |
 | 0402_Remove_K_Digits | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0402_Remove_K_Digits/stack.py) |
 | 0403_Frog_Jump | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0403_Frog_Jump/backtracking.py) |
+| 0404_Sum_of_Left_Leaves | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0404_Sum_of_Left_Leaves/recur.py) |
 | 0406_Queue_Reconstruction_by_Height | [sort_and_insert.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0406_Queue_Reconstruction_by_Height/sort_and_insert.kt) <br> [sort_and_insert.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0406_Queue_Reconstruction_by_Height/sort_and_insert.py) ⭐️ |
 | 0465_Optimal_Account_Balancing [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0465_Optimal_Account_Balancing/prob.md) [LintCode](https://www.lintcode.com/problem/optimal-account-balancing/description) | [dp_by_subsets.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0465_Optimal_Account_Balancing/dp_by_subsets.java) ⭐️ <br> [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0465_Optimal_Account_Balancing/backtracking.py) |
 | 0470_Trapping_Rain_Water_II | [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0470_Trapping_Rain_Water_II/priority_queue.java) |
