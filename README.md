@@ -319,6 +319,7 @@ Solutions for Leetcode problems
 | 0402_Remove_K_Digits | [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0402_Remove_K_Digits/stack.py) |
 | 0403_Frog_Jump | [backtracking.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0403_Frog_Jump/backtracking.py) |
 | 0404_Sum_of_Left_Leaves | [recur.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0404_Sum_of_Left_Leaves/recur.py) |
+| 0405_Convert_a_Number_to_Hexadecimal | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0405_Convert_a_Number_to_Hexadecimal/iter.py) |
 | 0406_Queue_Reconstruction_by_Height | [sort_and_insert.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0406_Queue_Reconstruction_by_Height/sort_and_insert.kt) <br> [sort_and_insert.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0406_Queue_Reconstruction_by_Height/sort_and_insert.py) ⭐️ |
 | 0409_Longest_Palindrome | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0409_Longest_Palindrome/hash.py) |
 | 0410_Split_Array_Largest_Sum | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0410_Split_Array_Largest_Sum/binary_search.py) |
