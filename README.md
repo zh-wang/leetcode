@@ -331,6 +331,7 @@ Solutions for Leetcode problems
 | 0494_Target_Sum | [recur_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_with_memo.py) <br> [recur_brute_force.cpp](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/recur_brute_force.cpp) <br> [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0494_Target_Sum/dp.java) |
 | 0498_Diagonal_Traverse | [iter.kt](https://github.com/zh-wang/leetcode/blob/master/solutions/0498_Diagonal_Traverse/iter.kt) <br> [iter_with_zip.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0498_Diagonal_Traverse/iter_with_zip.py) |
 | 0500_Keyboard_Row | [bits_opts.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0500_Keyboard_Row/bits_opts.py) |
+| 0543_Diameter_of_Binary_Tree | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0543_Diameter_of_Binary_Tree/dfs.py) |
 | 0572_Subtree_of_Another_Tree | [binary_tree_opts.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0572_Subtree_of_Another_Tree/binary_tree_opts.py) |
 | 0598_Range_Addition_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0598_Range_Addition_II/iter.py) |
 | 0673_Number_of_Longest_Increasing_Subsequence | [double_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0673_Number_of_Longest_Increasing_Subsequence/double_dp.java) ⭐️ <br> [segment_tree.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0673_Number_of_Longest_Increasing_Subsequence/segment_tree.py) |
