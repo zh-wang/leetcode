@@ -24,6 +24,7 @@ class Solution {
             }
         }
 
+
         Queue<Pair<Integer, Integer>> q = new LinkedList<>();
         q.add(new Pair<Integer, Integer>(0, 1));
         boolean[] visited = new boolean[wordList.size()];

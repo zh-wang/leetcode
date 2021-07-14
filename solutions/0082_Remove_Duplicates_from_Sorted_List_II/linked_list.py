@@ -14,15 +14,26 @@ class Solution:
         #           runner      |
         #                ----->runner
         while runner:
-            v, cnt = runner.val, 1
-            while runner.next and runner.next.val == v:
+            v, cnt = runner.val, 1 # A
+            while runner.next and runner.next.val == v: # B
                 runner = runner.next
                 cnt += 1
-            if cnt == 1:
+            if cnt == 1: # C
                 p_runner.next = runner
                 p_runner = p_runner.next
                 runner = p_runner.next
-            else:
+            else: # D
                 p_runner.next = None
                 runner = runner.next
         return new_head.next
+
+#   h   1   1   1   2   3   3
+#   v = 1, cnt = 1              (A)
+#   p   r                       (B)
+#           r                   (B)
+#               r               (B)
+#   p               r           (D)
+#   v = 1, cnt = 1              (A)
+#   p               r           (B)
+#   h           p   r           (C)
+#   new list: new_head -> 2
