@@ -291,6 +291,7 @@ Solutions for Leetcode problems
 | 0325_Maximum_Size_Subarray_Sum_Equals_k | [iter_and_hashmap.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0325_Maximum_Size_Subarray_Sum_Equals_k/iter_and_hashmap.java) |
 | 0326_Power_of_Three | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0326_Power_of_Three/iter.java) |
 | 0328_Odd_Even_Linked_List | [linked_list_opt.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0328_Odd_Even_Linked_List/linked_list_opt.java) |
+| 0331_Verify_Preorder_Serialization_of_a_Binary_Tree [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0331_Verify_Preorder_Serialization_of_a_Binary_Tree/prob.md) | [iter_by_degrees.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0331_Verify_Preorder_Serialization_of_a_Binary_Tree/iter_by_degrees.py) <br> [stack.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0331_Verify_Preorder_Serialization_of_a_Binary_Tree/stack.py) |
 | 0332_Reconstruct_Itinerary | [dfs2.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0332_Reconstruct_Itinerary/dfs2.java) <br> [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0332_Reconstruct_Itinerary/dfs.java) |
 | 0334_Increasing_Triplet_Subsequence | [iter.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0334_Increasing_Triplet_Subsequence/iter.java) |
 | 0337_House_Robber_III | [dfs.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0337_House_Robber_III/dfs.java) |
