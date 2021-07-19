@@ -130,7 +130,7 @@ Solutions for Leetcode problems
 | 0131_Palindrome_Partitioning | [dfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0131_Palindrome_Partitioning/dfs_with_memo.py) |
 | 0133_Clone_Graph | [bfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0133_Clone_Graph/bfs.py) |
 | 0134_Gas_Station | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0134_Gas_Station/iter.py) |
-| 0135_Candy | [test.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0135_Candy/test.py) ⭐️ |
+| 0135_Candy [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0135_Candy/prob.md) | [test.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0135_Candy/test.py) ⭐️ |
 | 0136_Single_Number | [xor.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0136_Single_Number/xor.py) |
 | 0137_Single_Number_II | [mod3_add.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0137_Single_Number_II/mod3_add.py) ⭐️ |
 | 0138_Copy_List_with_Random_Pointer | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0138_Copy_List_with_Random_Pointer/iter.py) |
