@@ -128,6 +128,7 @@ Solutions for Leetcode problems
 | 0129_Sum_Root_to_Leaf_Numbers | [dfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0129_Sum_Root_to_Leaf_Numbers/dfs.py) |
 | 0130_Surrounded_Regions | [bfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0130_Surrounded_Regions/bfs_with_memo.py) |
 | 0131_Palindrome_Partitioning | [dfs_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0131_Palindrome_Partitioning/dfs_with_memo.py) |
+| 0132_Palindrome_Partitioning_II | [dp_with_memo.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0132_Palindrome_Partitioning_II/dp_with_memo.py) ⭐️ |
 | 0133_Clone_Graph | [bfs.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0133_Clone_Graph/bfs.py) |
 | 0134_Gas_Station | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0134_Gas_Station/iter.py) |
 | 0135_Candy [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0135_Candy/prob.md) | [test.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0135_Candy/test.py) ⭐️ |
@@ -341,5 +342,5 @@ Solutions for Leetcode problems
 | 0598_Range_Addition_II | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0598_Range_Addition_II/iter.py) |
 | 0673_Number_of_Longest_Increasing_Subsequence | [double_dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0673_Number_of_Longest_Increasing_Subsequence/double_dp.java) ⭐️ <br> [segment_tree.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0673_Number_of_Longest_Increasing_Subsequence/segment_tree.py) |
 | 0703_Kth_Largest_Element_in_a_Stream | [heap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/heap.py) <br> [priority_queue.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.java) <br> [priority_queue.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0703_Kth_Largest_Element_in_a_Stream/priority_queue.py) |
-| 1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location/prob.md) | [double_A_star.py](https://github.com/zh-wang/leetcode/blob/master/solutions/1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location/double_A_star.py) |
+| 1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location/prob.md) | [double_A_star.py](https://github.com/zh-wang/leetcode/blob/master/solutions/1263_Minimum_Moves_to_Move_a_Box_to_Their_Target_Location/double_A_star.py) ⭐️ |
 | 1288_Remove_Covered_Intervals | [line_sweep.java](https://github.com/zh-wang/leetcode/blob/master/solutions/1288_Remove_Covered_Intervals/line_sweep.java) |
