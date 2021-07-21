@@ -253,6 +253,7 @@ Solutions for Leetcode problems
 | 0266_Palindrome_Permutation [LintCode](https://www.lintcode.com/problem/palindrome-permutation/description) | [iter.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0266_Palindrome_Permutation/iter.py) |
 | 0267_Palindrome_Permutation_II | [unique_permutation.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0267_Palindrome_Permutation_II/unique_permutation.py) |
 | 0268_Missing_Number | [math_xor.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0268_Missing_Number/math_xor.py) |
+| 0269_Alien_Dictionary [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0269_Alien_Dictionary/prob.md) [LintCode](None) | [topological_sort.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0269_Alien_Dictionary/topological_sort.py) ⭐️ |
 | 0274_H_index | [hash.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0274_H_index/hash.py) |
 | 0275_H-Index_II | [binary_search.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0275_H-Index_II/binary_search.py) |
 | 0276_Paint_Fence | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0276_Paint_Fence/math.py) |
