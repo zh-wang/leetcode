@@ -313,7 +313,7 @@ Solutions for Leetcode problems
 | 0370_Range_Addition [LintCode](https://www.lintcode.com/problem/range-addition/description) | [iter_reduce.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0370_Range_Addition/iter_reduce.py) |
 | 0377_Combination_Sum_IV | [dp.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0377_Combination_Sum_IV/dp.java) |
 | 0384_Shuffle_an_Array [prob.md](https://github.com/zh-wang/leetcode/blob/master/solutions/0384_Shuffle_an_Array/prob.md) | [iter_with_random.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0384_Shuffle_an_Array/iter_with_random.py) |
-| 0389_Find_the_Difference | [hashmap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0389_Find_the_Difference/hashmap.py) |
+| 0389_Find_the_Difference | [xor.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0389_Find_the_Difference/xor.py) <br> [hashmap.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0389_Find_the_Difference/hashmap.py) |
 | 0390_Elimination_Game | [modified_binary_search.java](https://github.com/zh-wang/leetcode/blob/master/solutions/0390_Elimination_Game/modified_binary_search.java) |
 | 0391_Perfect_Rectangle | [math.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0391_Perfect_Rectangle/math.py) |
 | 0392_Is_Subsequence | [two_pointers.py](https://github.com/zh-wang/leetcode/blob/master/solutions/0392_Is_Subsequence/two_pointers.py) |
